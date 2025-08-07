@@ -1,10 +1,9 @@
-## Hi there 👋
-Científica de Datos con experiencia en Power BI, Python, SQL y comunicación de resultados.  
+### Hi there 👋
+## Científica de Datos con experiencia en Power BI, Python, SQL y comunicación de resultados.  
 🔍 Me apasiona transformar datos en decisiones.  
 📊 Proyectos destacados:
-- [Dashboard P&G LADMAR](https://github.com/daphne-data/pg-ladmar-dashboard)
 
-# Análisis de ventas - Proyecto Reckitt
+## Análisis de ventas - Proyecto Reckitt
 
 Este proyecto analiza datos de ventas para identificar patrones de comportamiento y predecir tendencias.
 
@@ -22,8 +21,9 @@ Se identificó que X factor tiene un impacto del 70% en las ventas mensuales.
 2. Instala dependencias con `pip install -r requirements.txt`
 3. Ejecuta el notebook en Jupyter.
 
-- [Análisis de datos con Python - Proyecto Reckitt](E1_DafneRamírez.ipynb)
+- [Análisis de datos con Python - Proyecto Reckitt](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/E1_DafneRam%C3%ADrez.ipynb)
 
+- [Dashboard P&G LADMAR](https://github.com/daphne-data/pg-ladmar-dashboard)
 <!--
 **databimx/databimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
