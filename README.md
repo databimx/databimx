@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Científica de Datos con experiencia en Power BI, Python, SQL y comunicación de resultados.  
+Científica de Datos con experiencia en Power BI, Python, SQL y comunicación de resultados.  
 🔍 Me apasiona transformar datos en decisiones.  
 📊 Proyectos destacados:
 - [Dashboard P&G LADMAR](https://github.com/daphne-data/pg-ladmar-dashboard)
