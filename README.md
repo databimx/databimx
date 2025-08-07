@@ -22,6 +22,7 @@ Se identificó que X factor tiene un impacto del 70% en las ventas mensuales.
 3. Ejecuta el notebook en Jupyter.
 
 - [Análisis de datos con Python - Proyecto Reckitt](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/E1_DafneRam%C3%ADrez.ipynb)
+- [PDF - Proyecto Reckitt](https://www.canva.com/design/DAGorpp8AP4/AHaj1MGLjKQzSa_sjU4siw/edit)
 
 - [Dashboard P&G LADMAR](https://github.com/daphne-data/pg-ladmar-dashboard)
 <!--
