@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+Científica de Datos con experiencia en Power BI, Python, SQL y comunicación de resultados.  
+🔍 Me apasiona transformar datos en decisiones.  
+📊 Proyectos destacados:
+- [Dashboard P&G LADMAR](https://github.com/daphne-data/pg-ladmar-dashboard)
+- [Análisis de datos con Python - Proyecto Reckitt](https://github.com/daphne-data/proyecto-reckitt)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
