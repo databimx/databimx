@@ -43,7 +43,7 @@ Se compartieron los resultados con el cliente P&G por medio de este dashboard pa
 - [Dashboard con Power BI - P&G LADMAR 2223-3](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_3.png)
 - [Dashboard con Power BI - P&G LADMAR 2223-4](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_4.png)
 - [Dashboard con Power BI - P&G LADMAR 2223-5](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_5.png)
-- [Power BI - P&G LADMAR 2223](https://github.com/databimx/Proyectos/blob/34ee7281bf4b57b8321fd8ac2b72bb226e35c08c/P%26G_V5_numero%201.pbix)
+
 
 
 
