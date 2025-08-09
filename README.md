@@ -4,15 +4,16 @@
 📊 Proyectos destacados:
 
 ### 📈 Análisis de ventas - Proyecto Reckitt 2025
-- [Análisis de datos con Python - Proyecto Reckitt](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/E1_DafneRam%C3%ADrez.ipynb)
+- [Análisis de datos con Python - Proyecto Reckitt-1](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/E1_DafneRam%C3%ADrez.ipynb)
+- [Análisis de datos con Python - Proyecto Reckitt-2](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/E2_DafneRam%C3%ADrez.ipynb)
 
-### 📈 Análisis de ventas - Proyecto Apps Google Play Store 2025
+### 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
 - [Análisis de datos con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Proy_Apps_v1.ipynb)
-- [Análisis de datos con Python - Proyecto Apps Google Play Store PDF]()
+- [PDF Análisis de datos con Python - Proyecto Apps Google Play Store]()
 
-### 📈 Análisis de ventas - Proyecto Amazon 2025
+### 📈 Modelo Machine Learning Recomendaciones - Proyecto Amazon 2025
 - [Análisis de datos con Python - Proyecto Amazon](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Amazon.xlsx)
-- [Análisis de datos con Python - Proyecto Amazon PDF]()
+- [PDF Análisis de datos con Python - Proyecto Amazon](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/Amazon.pdf)
 
 ### 📈 Dashboard PepsiCo - Proyecto campaña de ventas 2025
 - [Dashboard PepsiCos con Power BI - Proyecto campaña de ventas-1](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/pepsico1.png)
