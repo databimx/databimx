@@ -17,7 +17,7 @@
 
 #### 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
 - [Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Proy_Apps_v1.ipynb)
-- [PDF Análisis de Sentimiento con Python - Proyecto Apps Google Play Store]()
+- [PDF Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/Proy_Apps_v1.pdf)
 
 #### 📈 Modelo Machine Learning Recomendaciones - Proyecto Amazon 2025
 - [Recomendaciones con Python - Proyecto Amazon](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Amazon.xlsx)
