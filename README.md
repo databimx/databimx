@@ -1,7 +1,9 @@
 ## Hi there 👋
-😄 Hola, soy Dafne Ramírez, Científica de Datos con una formación sólida en comunicación por la UNAM y especialización en ciencia de datos por EBAC. Cuento con más de 3 años de experiencia como Data Analyst & Insight Executive, desarrollando soluciones de análisis de datos, automatización de reportes y visualización estratégica con herramientas como Power BI, Python, SQL y Excel avanzado.
+😄 Hola, soy Dafne Ramírez, Científica de Datos con una formación sólida _titulada en comunicación por la UNAM-_ y especialización en **Ciencia de datos por EBAC**. 
 
-🔍 Me apasiona transformar datos en decisiones por eso ayudo a las organizaciones a navegar su transformación digital aprovechando el poder de los datos, creando ventajas competitivas sostenibles en entornos dinámicos, combinando el dominio técnico con la capacidad narrativa para construir soluciones inteligentes orientadas a resultados. 🌱
+Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluciones de análisis de datos, automatización de reportes y visualización estratégica con herramientas como Power BI, Python, SQL y Excel avanzado.
+
+🔍 **Me apasiona transformar datos en decisiones por eso ayudo a las organizaciones a navegar su transformación digital aprovechando el poder de los datos, creando ventajas competitivas sostenibles en entornos dinámicos, combinando el dominio técnico con la capacidad narrativa para construir soluciones inteligentes orientadas a resultados.** 🌱
 
 🔭 He trabajado con marcas como Sony, Regal Springs, Pepsico y P&G LADMAR, optimizando procesos y desarrollando dashboards que han mejorado la toma de decisiones, incluso siendo reconocida con el premio Doing Business Better en 2023.
 
