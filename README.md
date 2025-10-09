@@ -1,5 +1,5 @@
 ## Hi there 👋
-😄 Hola, soy Dafne Ramírez, Científica de Datos con una formación sólida _titulada en comunicación por la UNAM-_ y especialización en **Ciencia de datos por EBAC**. 
+😄 Hola, soy **Dafne Ramírez, Científica de Datos** con una formación sólida _titulada en comunicación por la UNAM_ y especialización en **Ciencia de datos por EBAC**. 
 
 Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluciones de análisis de datos, automatización de reportes y visualización estratégica con herramientas como Power BI, Python, SQL y Excel avanzado.
 
