@@ -14,8 +14,7 @@ Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluc
 #### 📊 Proyectos destacados:
 
 #### 📈 Análisis de ventas - Proyecto Reckitt 2025
-- [Análisis de ventas con Python - Proyecto Reckitt-1](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/E1_DafneRam%C3%ADrez.ipynb)
-- [Análisis de ventas con Python - Proyecto Reckitt-2](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/E2_DafneRam%C3%ADrez.ipynb)
+- [Proporcioné insights clave sobre el rendimiento de ventas de productos y realicé una predicción de ventas futuras para ayudar a la compañía Reckitt a tomar decisiones estratégica - Proyecto Reckitt- Power Point](https://drive.google.com/file/d/1sR2L3EwhINyWn3lVAXLeFSxbN-cCJ5y-/view?usp=drive_link)
 
 #### 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
 - [Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Proy_Apps_v1.ipynb)
