@@ -33,7 +33,7 @@ Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluc
 - [Dashboard Regal Springs con Power BI - campaña de ventas-2(https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/rs2.png)
 
 #### 📈 Social Listening con Talkwalker - Pich para Starbucks 2025
-- [Social Listening con Talkwalker - Pich para Starbucks]()
+- [Social Listening con Talkwalker - Pich para Starbucks](https://github.com/databimx/Proyectos/blob/d866da082244b18e32aa58e2001fa0001ffea1d4/Starbucks%20listening.pptx.pdf)
 
 #### 📈 Dashboard SONY - Proyecto campañas (2019-2025)
 - [Dashboard con Power BI - SONY-1](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s1.png)
