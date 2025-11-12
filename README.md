@@ -32,36 +32,36 @@ Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluc
 - [Dashboard Regal Springs con Power BI - campaña de ventas-2](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/rs2.png)
 
 #### 📈 Social Listening con Talkwalker - Pich para Starbucks 2025
-- [Social Listening con Talkwalker - Pich para Starbucks](https://github.com/databimx/Proyectos/blob/d866da082244b18e32aa58e2001fa0001ffea1d4/Starbucks%20listening.pptx.pdf)
+- [Social Listening con Talkwalker - Pich para Starbucks](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/Starbucks%20listening.pptx%20(1).pdf)
 
 #### 📈 Dashboard SONY - Proyecto campañas (2019-2025)
-- [Dashboard con Power BI - SONY-1](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s1.png)
-- [Dashboard con Power BI - SONY-2](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s2.png)
-- [Dashboard con Power BI - SONY-3](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s3.png)
-- [Dashboard con Power BI - SONY-4](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s4.png)
-- [Dashboard con Power BI - SONY-5](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s5.png)
-- [Dashboard con Power BI - SONY-6](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s7.png)
-- [Dashboard con Power BI - SONY-7](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s8.png)
-- [Dashboard con Power BI - SONY-8](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s9.png)
-- [Dashboard con Power BI - SONY-9](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/s10.png)
-- [Dashboard con Power BI en SWAY - SONY-SWAY](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/Dashboard_Sony_Sway.jpg)
+- [Dashboard con Power BI - SONY-1](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s1.png)
+- [Dashboard con Power BI - SONY-2](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s2.png)
+- [Dashboard con Power BI - SONY-3](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s3.png)
+- [Dashboard con Power BI - SONY-4](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s4.png)
+- [Dashboard con Power BI - SONY-5](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s5.png)
+- [Dashboard con Power BI - SONY-6](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s7.png)
+- [Dashboard con Power BI - SONY-7](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s8.png)
+- [Dashboard con Power BI - SONY-8](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s9.png)
+- [Dashboard con Power BI - SONY-9](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/s10.png)
+- [Dashboard con Power BI en SWAY - SONY-SWAY](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/Dashboard_Sony_Sway.jpg)
 
 #### 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2324
-- [Dashboard con Power BI - P&G LADMAR 2324-1](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2324_1.png)
-- [Dashboard con Power BI - P&G LADMAR 2324-2](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2324_2.png)
-- [Dashboard con Power BI - P&G LADMAR 2324-3](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2324_3.png)
-- [Dashboard con Power BI - P&G LADMAR 2324-4](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2324_4.png)
-- [Dashboard con Power BI - P&G LADMAR 2324-5](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2324_5.png)
+- [Dashboard con Power BI - P&G LADMAR 2324-1](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2324_1.png)
+- [Dashboard con Power BI - P&G LADMAR 2324-2](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2324_2.png)
+- [Dashboard con Power BI - P&G LADMAR 2324-3](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2324_3.png)
+- [Dashboard con Power BI - P&G LADMAR 2324-4](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2324_4.png)
+- [Dashboard con Power BI - P&G LADMAR 2324-5](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2324_5.png)
 
 #### 📈 Dashboard P&G LADMAR - Proyecto Base de datos interna (2018-2024)
-- [Dashboard con Power BI - P&G LADMAR BDD](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/bdd_p%26Gladmar.png)
+- [Dashboard con Power BI - P&G LADMAR BDD](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/bdd_p%26Gladmar.png)
 
 #### 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2223
-- [Dashboard con Power BI - P&G LADMAR 2223-1](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_1.png)
-- [Dashboard con Power BI - P&G LADMAR 2223 2](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_2.png)
-- [Dashboard con Power BI - P&G LADMAR 2223-3](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_3.png)
-- [Dashboard con Power BI - P&G LADMAR 2223-4](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_4.png)
-- [Dashboard con Power BI - P&G LADMAR 2223-5](https://github.com/databimx/Proyectos/blob/d37fcb090275cb51055b3db38259f6250ddc7116/pgladmar_2223_5.png)
+- [Dashboard con Power BI - P&G LADMAR 2223-1](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2223_1.png)
+- [Dashboard con Power BI - P&G LADMAR 2223 2](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2223_2.png)
+- [Dashboard con Power BI - P&G LADMAR 2223-3](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2223_3.png)
+- [Dashboard con Power BI - P&G LADMAR 2223-4](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2223_4.png)
+- [Dashboard con Power BI - P&G LADMAR 2223-5](https://github.com/databimx/databimx/blob/8d1c04c53f95da418578bfb96307a9c1c44742ef/pgladmar_2223_5.png)
 
 
 <!--
