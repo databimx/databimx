@@ -17,19 +17,19 @@ Cuento con más de 3 años de experiencia como Desarrolladora de Power BI, Soluc
 - [Proporcioné insights clave sobre el rendimiento de ventas de productos y realicé una predicción de ventas futuras para ayudar a la compañía Reckitt a tomar decisiones estratégica - Proyecto Reckitt- Power Point](https://github.com/databimx/databimx/blob/9813cb427790c227f2a90b6fa8cd39828a3f87fa/Reckitt_compressed.pdf)
 
 #### 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
-- [Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/3bd8b6ceede072a7d6aa912073262ead2ed6fa6e/Proy_Apps_v1.ipynb)
-- [PDF Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/Proy_Apps_v1.pdf)
+- [Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/Proy_Apps_v1.ipynb)
+- [PDF Análisis de Sentimiento con Python - Proyecto Apps Google Play Store](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/Proy_Apps_v1.pdf)
 
 #### 📈 Modelo Machine Learning Recomendaciones - Proyecto Amazon 2025
-- [PDF Recomendaciones con Python - Proyecto Amazon](https://github.com/databimx/EBAC/blob/93089e14b3da44feb799c8f9c983c74d39a013b5/Amazon.pdf)
+- [PDF Recomendaciones con Python - Proyecto Amazon](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/Amazon.pdf)
 
 #### 📈 Dashboard PepsiCo - Proyecto campaña de ventas 2025
-- [Dashboard PepsiCos con Power BI - Proyecto campaña de ventas-1](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/pepsico1.png)
-- [Dashboard PepsiCos con Power BI - Proyecto campaña de ventas-2](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/pepsico2.png)
+- [Dashboard PepsiCos con Power BI - Proyecto campaña de ventas-1](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/pepsico1.png)
+- [Dashboard PepsiCos con Power BI - Proyecto campaña de ventas-2](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/pepsico2.png)
 
 #### 📈 Dashboard Regal Springs - Proyecto campaña de ventas 2025
-- [Dashboard Regal Springs con Power BI - campaña de ventas-1](https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/rs1.png)
-- [Dashboard Regal Springs con Power BI - campaña de ventas-2(https://github.com/databimx/Proyectos/blob/2b406af6ec220e25e9fba69f35bd8ca799d62dd9/rs2.png)
+- [Dashboard Regal Springs con Power BI - campaña de ventas-1](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/rs1.png)
+- [Dashboard Regal Springs con Power BI - campaña de ventas-2](https://github.com/databimx/databimx/blob/7ebd7ad31e13326ded8ee2c33e704df192d0de4c/rs2.png)
 
 #### 📈 Social Listening con Talkwalker - Pich para Starbucks 2025
 - [Social Listening con Talkwalker - Pich para Starbucks](https://github.com/databimx/Proyectos/blob/d866da082244b18e32aa58e2001fa0001ffea1d4/Starbucks%20listening.pptx.pdf)
