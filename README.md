@@ -3,25 +3,25 @@ Soy Dafne Ramírez, profesionista en Ciencias de Datos bilingüe con más de tre
 
 #### 📊 Proyectos destacados:
 
-#### 📈 Análisis de ventas - Proyecto Reckitt 2025
+* 📈 Análisis de ventas - Proyecto Reckitt 2025
 
-#### 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
+* 📈  Modelo Machine Learning Análisis de Sentimiento - Proyecto Apps Google Play Store 2025
 
-#### 📈 Modelo Machine Learning Recomendaciones - Proyecto Amazon 2025
+* 📈 Modelo Machine Learning Recomendaciones - Proyecto Amazon 2025
 
-#### 📈 Dashboard PepsiCo - Proyecto campaña de ventas 2025
+* 📈 Dashboard PepsiCo - Proyecto campaña de ventas 2025
 
-#### 📈 Dashboard Regal Springs - Proyecto campaña de ventas 2025
+* 📈 Dashboard Regal Springs - Proyecto campaña de ventas 2025
 
-#### 📈 Social Listening con Talkwalker - Pich para Starbucks 2025
+* 📈 Social Listening con Talkwalker - Pich para Starbucks 2025
 
-#### 📈 Dashboard SONY - Proyecto campañas (2019-2025)
+* 📈 Dashboard SONY - Proyecto campañas (2019-2025)
 
-#### 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2324
+* 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2324
 
-#### 📈 Dashboard P&G LADMAR - Proyecto Base de datos interna (2018-2024)
+* 📈 Dashboard P&G LADMAR - Proyecto Base de datos interna (2018-2024)
 
-#### 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2223
+* 📈 Dashboard P&G LADMAR - Proyecto Marketing influencers FY2223
 
 <!--
 **databimx/databimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
