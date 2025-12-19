@@ -1,7 +1,17 @@
-### 👋 Soy una profesional bilingüe en Ciencias de Datos con más de tres años de experiencia en análisis de marketing de influencers, desarrollo de dashboards en Power BI y análisis de datos. Estoy certificada por EBAC y tengo formación en Comunicación por la UNAM. Me apasiona transformar datos en decisiones efectivas, ayudando a organizaciones en su transformación digital y creando ventajas competitivas. He trabajado con empresas como Sony, PepsiCo y P&G, mejorando la toma de decisiones y fui galardonada con el premio Doing Business Better en 2023.
+### 👋 Soy una profesional bilingüe en Ciencias de Datos con más de tres años de experiencia en análisis de marketing de influencers, desarrollo de dashboards en Power BI y análisis de datos. Estoy certificada por EBAC y tengo formación en Comunicación por la UNAM. Me apasiona transformar datos en decisiones efectivas, ayudando a organizaciones en su transformación digital y creando ventajas competitivas. Colaboré en proyectos para Sony, PepsiCo y P&G, mejorando la toma de decisiones y fui galardonada con el premio Doing Business Better en 2023.
 
-##### 📊 Capacidades clave
-Data science | Data mining | Machine Learning | Storytelling | Data analysis | Databases | Reports | Business Intelligence | Influencer Marketing Analysis | ETL | Statistics for Data Science | KPI’s | Data visualization | Big Data | HTML | Orange | IA | Microsoft Power Platform | Python | Jupyter Notebook| GitHub| SQL | Power BI | Google Data Studio | PowerPoint | Google Slides | Adobe | Gimp | Alta orientación al detalle | Gestión de tiempo | Orientada a resultados | Comunicación efectiva | Pensamiento crítico | Colaboración | Curiosidad intelectual |Sentido del negocio | adaptabilidad | Resolución proactiva de problemas
+##### 📊 Habilidades Técnicas: (Hard Skills)
+* Análisis y Ciencia de Datos: Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
+* Visualización y Reporting: Power BI, Google Data Studio (Looker Studio), Microsoft Power Platform y Storytelling de datos.
+* Gestión de Datos: SQL, Bases de Datos, procesos ETL y Python (Jupyter Notebook).
+* Herramientas y Desarrollo: GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
+* Diseño y Multimedia: Manejo de Adobe Suite y GIMP.
+* Especialidad de Negocio: Business Intelligence (BI), definición de KPIs y Análisis de Influencer Marketing.
+##### 📊 Habilidades Blandas (Soft Skills)
+* Pensamiento y Resolución: Pensamiento crítico, resolución proactiva de problemas y alta orientación al detalle.
+* Gestión y Resultados: Orientación a resultados, gestión eficiente del tiempo y sentido del negocio.
+* Interpersonales: Comunicación efectiva, colaboración en equipo y adaptabilidad.
+* Actitud: Curiosidad intelectual y aprendizaje continuo.
 
 ##### 📊 EXPERIENCIA PROFESIONAL
 ###### Data analyst & insight consultant | Noviembre 2021 – Mayo 2025
