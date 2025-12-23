@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Dafne Ramírez] 👋
+# ¡Hola! Soy Dafne Ramírez 👋
 
 ¡Bienvenido a mi portafolio de análisis de marketing! Soy una analista de marketing con experiencia en análisis de comportamiento del consumidor y la visualización de datos para informar decisiones clave y potenciar la estrategia de marca combino habilidades técnicas y blandas para interpretar datos de campañas y mercado, identificar tendencias, desarrollo de dashboards en Power BI, analizar datos para optimizar campañas, generar leads cualificados, mejorar el ROI, crear estrategias basadas en insights para mejorar el rendimineto y alcanzar los objetivos del negocio, reportando KPI’s clave como conversiones, interacciones y alcance. En este espacio, muestro proyectos que demuestran mi capacidad para convertir datos en estrategias de marketing accionables.
 
