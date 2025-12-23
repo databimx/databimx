@@ -31,17 +31,17 @@ Aquí hay algunos de mis proyectos clave.
 
 ## Habilidades Clave
 
-*   **Técnicas:**
+**Técnicas:**
 *   **Análisis y Ciencia de Datos:** Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
 *   **Visualización y Reporting:** Power BI, Microsoft Power Platform y Storytelling de datos.
 *   **Gestión de Datos:** Excel (Avanzado/VBA), SQL, Bases de Datos, Queries, procesos ETL y Python/R (Jupyter Notebook).
 *   **Herramientas y Desarrollo:** GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
 *   **Diseño y Multimedia:** Manejo de Adobe Suite y GIMP.
   
-*   **Estratégicas y de Negocio:**
+**Estratégicas y de Negocio:**
 *   **Especialidad de Negocio:** Análisis de Influencer Marketing, Interpretación de embudos de conversión y KPIs de marketing (Tasa de conversión, Tráfico, Costo de Adquisición de Clientes (Customer Acquisition Cost/CAC), Lifetime Value (Valor de Vida del Cliente/LTV), Investigación de mercado, Análisis competitivo, Segmentación de audiencias y Perfilado de clientes.
 
-*   **Blandas (Soft Skills):**
+**Blandas (Soft Skills):**
 *   **Pensamiento y Resolución:** Pensamiento crítico, resolución proactiva de problemas y alta orientación al detalle.
 *   **Gestión y Resultados:** Orientación a resultados, gestión eficiente del tiempo y sentido del negocio.
 *   **Interpersonales:** Comunicación efectiva, presentación de datos, colaboración en equipo y adaptabilidad.
