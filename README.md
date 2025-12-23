@@ -1,48 +1,58 @@
-### 👋 Soy una profesional bilingüe en Ciencias de Datos con más de tres años de experiencia en análisis de marketing de influencers, desarrollo de dashboards en Power BI y análisis de datos. Estoy certificada por EBAC y tengo formación en Comunicación por la UNAM. Me apasiona transformar datos en decisiones efectivas, ayudando a organizaciones en su transformación digital y creando ventajas competitivas. Colaboré en proyectos para Sony, PepsiCo y P&G, mejorando la toma de decisiones y fui galardonada con el premio Doing Business Better en 2023.
+# ¡Hola! Soy [Dafne Ramírez] 👋
 
-##### 📊 Habilidades Técnicas: (Hard Skills)
-* Análisis y Ciencia de Datos: Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
-* Visualización y Reporting: Power BI, Google Data Studio (Looker Studio), Microsoft Power Platform y Storytelling de datos.
-* Gestión de Datos: SQL, Bases de Datos, procesos ETL y Python (Jupyter Notebook).
-* Herramientas y Desarrollo: GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
-* Diseño y Multimedia: Manejo de Adobe Suite y GIMP.
-* Especialidad de Negocio: Business Intelligence (BI), definición de KPIs y Análisis de Influencer Marketing.
-##### 📊 Habilidades Blandas (Soft Skills)
-* Pensamiento y Resolución: Pensamiento crítico, resolución proactiva de problemas y alta orientación al detalle.
-* Gestión y Resultados: Orientación a resultados, gestión eficiente del tiempo y sentido del negocio.
-* Interpersonales: Comunicación efectiva, colaboración en equipo y adaptabilidad.
-* Actitud: Curiosidad intelectual y aprendizaje continuo.
+¡Bienvenido a mi portafolio de análisis de marketing! Soy una analista de marketing con experiencia en análisis de comportamiento del consumidor y la visualización de datos para informar decisiones clave y potenciar la estrategia de marca combino habilidades técnicas y blandas para interpretar datos de campañas y mercado, identificar tendencias, desarrollo de dashboards en Power BI, analizar datos para optimizar campañas, generar leads cualificados, mejorar el ROI, crear estrategias basadas en insights para mejorar el rendimineto y alcanzar los objetivos del negocio, reportando KPI’s clave como conversiones, interacciones y alcance. En este espacio, muestro proyectos que demuestran mi capacidad para convertir datos en estrategias de marketing accionables.
 
-##### 📊 EXPERIENCIA PROFESIONAL
-###### Data analyst & insight consultant | Noviembre 2021 – Mayo 2025
-* Diseñé un dashboard en Power BI para la campaña de marketing con PepsiCo.
-* Elaboré un dashboard en Power BI para la campaña de marketing con Regal Springs.
-* Mejoré un dashboard en Power BI para la campaña de marketing con SONY (2019-2025).
-* Desarrollé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2324.
-* Elaboré un dashboard en Power BI utilizando la base de datos interna de influencers para P&G LADMAR (2018-2024).
-* Realicé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2223.
-* Reduje los errores al 97% mediante la optimización de procesos para capturar, analizar y visualizar métricas, lo que disminuyó el tiempo de entrega, el número de personas involucradas y mejoró la calidad y cantidad de los informes para los clientes. Realicé limpieza de datos, ETL, automatización de procesos y reportes en Excel Avanzado y Visual Basic (VBA), utilizando macros con DAX, Excel, Query, Sway y SharePoint para crear informes y reportes en tiempo real, tanto para uso interno como para clientes.
-* Fui galardonada con el PREMIO DOING BUSINESS BETTER México 2023 por el dashboard de P&G LADMAR 2324.
+## Sobre Mí
 
-##### 📊 PROYECTOS REELEVANTES
-###### Junior Data Science | EBAC | Junio - Octubre 2025
-* Realicé el proyecto Reckitt, proporcionando insights sobre rendimiento de ventas y predicciones para decisiones estratégicas. El proyecto incluyó: Introducción, ELT (Extracción, Carga, Transformación), Extracción y análisis de datos en SQLite, Análisis Exploratorio de Datos (EDA) y visualizaciones en Python, Interpretación de datos y segmentación de productos con clustering, Predicción de ventas con Machine Learning, Creación de dashboard en Python y Power BI; y Conclusiones y recomendaciones.
-* Desarrollé un modelo de machine learning para análisis de sentimientos en Google Play Store.
-* Creé un modelo de machine learning para recomendaciones en predicciones de clientes para Amazon.
+*   📊 Me especializo en:Análisis y Ciencia de Datos: Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
+Visualización y Reporting: Power BI, Microsoft Power Platform y Storytelling de datos.
+Gestión de Datos: Excel (Avanzado/VBA), SQL, Bases de Datos, Queries, procesos ETL y Python/R (Jupyter Notebook).
+Herramientas y Desarrollo: GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
+Diseño y Multimedia: Manejo de Adobe Suite y GIMP.
+*   💡 Mi enfoque es: interpretar datos de campañas y mercado, identificar tendencias, desarrollo de dashboards en Power BI, analizar datos para optimizar campañas, generar leads cualificados, mejorar el ROI, crear estrategias basadas en insights para mejorar el rendimineto y alcanzar los objetivos del negocio, reportando KPI’s clave como conversiones, interacciones y alcance.
+*   📧 Contacto: data.bi.mx@gmail.com
+*   🌐 LinkedIn: www.linkedin.com/in/daph-data-1257ab356 
 
-##### 📊 FORMACIÓN
-* Profesión Científico de Datos | EBAC | 2025
-* Licenciatura en Ciencias de la Comunicación | UNAM| 2009
-* IDIOMAS | Inglés | Nivel Intermedio Alto (B2)
+## Proyectos Destacados
 
-##### 📊 CAPACIDADES ADICIONALES
+Aquí hay algunos de mis proyectos clave.
 
-* SQL, Udemy, 2024.
-* Certificación PL-900 Microsoft Power Platform Fundamentals, Udemy, 2024.
-* Master en IA Generativa: ChatGPT en Azure OpenAI, Udemy, 2023.
-* Power BI: Análisis de Datos y Business Intelligence, Udemy, 2023.
-* Microsoft SharePoint, Udemy, 2023.
-* Análisis Estadístico con Excel, Universidad Galileo, 2022.
+### 1. Diseñé un dashboard en Power BI para la campaña de marketing con PepsiCo que mejoraron la eficiencia de la visualización de datos en un 100%.
+### 2. Elaboré un dashboard en Power BI para la campaña de marketing con Regal Springs que mejoraron la eficiencia de la visualización de datos en un 100%.
+### 3. Mejoré un dashboard en Power BI para la campaña de marketing con SONY (2019-2025) que mejoraron la eficiencia de la visualización de datos en un 100%.
+### 4. Desarrollé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2324, que mejoraron la eficiencia de la visualización de datos en un 100%.
+### 5. Elaboré un dashboard en Power BI utilizando la base de datos interna de influencers para P&G LADMAR (2018-2024), que mejoraron la eficiencia de la visualización de datos en un 100%.
+### 6. Realicé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2223, que mejoraron la eficiencia de la visualización de datos en un 100%
+### 7. Fui galardonada con el PREMIO DOING BUSINESS BETTER México 2023 por el dashboard de P&G LADMAR 2223.
+### 8. Reduje los errores al 97% mediante la optimización de procesos para capturar, analizar y visualizar métricas, lo que disminuyó el tiempo de entrega, el número de personas involucradas y mejoró la calidad y cantidad de los informes para los clientes. Realicé limpieza de datos, ETL, automatización de procesos y reportes en Excel Avanzado y Visual Basic (VBA), utilizando macros con DAX, Excel, Query, Sway y SharePoint para crear informes y reportes en tiempo real, tanto para uso interno como para clientes.
+### 9. Realicé el proyecto Reckitt (EBAC), proporcionando insights sobre rendimiento de ventas y predicciones para decisiones estratégicas. El proyecto incluyó: Introducción, ELT (Extracción, Carga, Transformación), Extracción y análisis de datos en SQLite, Análisis Exploratorio de Datos (EDA) y visualizaciones en Python, Interpretación de datos y segmentación de productos con clustering, Predicción de ventas con Machine Learning, Creación de dashboard en Python y Power BI; y Conclusiones y recomendaciones.
+### 10. Desarrollé un modelo de machine learning para análisis de sentimientos en Google Play Store (EBAC).
+### 11. Creé un modelo de machine learning para recomendaciones en predicciones de clientes para Amazon (EBAC).
+
+## Habilidades Clave
+
+*   **Técnicas:**
+*   **Análisis y Ciencia de Datos:** Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
+*   **Visualización y Reporting:** Power BI, Microsoft Power Platform y Storytelling de datos.
+*   **Gestión de Datos:** Excel (Avanzado/VBA), SQL, Bases de Datos, Queries, procesos ETL y Python/R (Jupyter Notebook).
+*   **Herramientas y Desarrollo:** GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
+*   **Diseño y Multimedia:** Manejo de Adobe Suite y GIMP.
+  
+*   **Estratégicas y de Negocio:**
+*   **Especialidad de Negocio:** Análisis de Influencer Marketing, Interpretación de embudos de conversión y KPIs de marketing (Tasa de conversión, Tráfico, Costo de Adquisición de Clientes (Customer Acquisition Cost/CAC), Lifetime Value (Valor de Vida del Cliente/LTV), Investigación de mercado, Análisis competitivo, Segmentación de audiencias y Perfilado de clientes.
+
+*   **Blandas (Soft Skills):**
+*   **Pensamiento y Resolución:** Pensamiento crítico, resolución proactiva de problemas y alta orientación al detalle.
+*   **Gestión y Resultados:** Orientación a resultados, gestión eficiente del tiempo y sentido del negocio.
+*   **Interpersonales:** Comunicación efectiva, presentación de datos, colaboración en equipo y adaptabilidad.
+*   **Actitud:** Curiosidad intelectual y aprendizaje continuo.
+
+## Licencia
+Todos los proyectos aquí presentados son parte de mi portafolio personal. 
+
+---
+
+Hecho con ❤️ y datos.
 
 
 <!--
