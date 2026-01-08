@@ -1,58 +1,65 @@
-# ¡Hola! Soy Dafne Ramírez 👋
+# Hi there, I'm Dafne Ramírez! 👋
 
-¡Bienvenido a mi portafolio de análisis de marketing! Soy una analista de marketing con experiencia en análisis de comportamiento del consumidor y la visualización de datos para informar decisiones clave y potenciar la estrategia de marca combino habilidades técnicas y blandas para interpretar datos de campañas y mercado, identificar tendencias, desarrollo de dashboards en Power BI, analizar datos para optimizar campañas, generar leads cualificados, mejorar el ROI, crear estrategias basadas en insights para mejorar el rendimineto y alcanzar los objetivos del negocio, reportando KPI’s clave como conversiones, interacciones y alcance. En este espacio, muestro proyectos que demuestran mi capacidad para convertir datos en estrategias de marketing accionables.
+### Data Scientist Junior | Business Intelligence Specialist | B2 English 🇲🇽🇺🇸
 
-## Sobre Mí
+[span_0](start_span)[span_1](start_span)I am a bilingual Data Science professional certified by EBAC[span_0](end_span)[span_1](end_span). [span_2](start_span)I am passionate about transforming data into effective decisions, helping organizations in their digital transformation, and creating competitive advantages[span_2](end_span). My profile combines technical rigor (3C) with a strategic and human-centric approach (5B, 1D).
 
-*   📊 Me especializo en:Análisis y Ciencia de Datos: Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
-Visualización y Reporting: Power BI, Microsoft Power Platform y Storytelling de datos.
-Gestión de Datos: Excel (Avanzado/VBA), SQL, Bases de Datos, Queries, procesos ETL y Python/R (Jupyter Notebook).
-Herramientas y Desarrollo: GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
-Diseño y Multimedia: Manejo de Adobe Suite y GIMP.
-*   💡 Mi enfoque es: interpretar datos de campañas y mercado, identificar tendencias, desarrollo de dashboards en Power BI, analizar datos para optimizar campañas, generar leads cualificados, mejorar el ROI, crear estrategias basadas en insights para mejorar el rendimineto y alcanzar los objetivos del negocio, reportando KPI’s clave como conversiones, interacciones y alcance.
-*   📧 Contacto: data.bi.mx@gmail.com
-*   🌐 LinkedIn: www.linkedin.com/in/daph-data-1257ab356 
+---
 
-## Proyectos Destacados
+## 🛠️ Technical Stack
 
-Aquí hay algunos de mis proyectos clave.
+### **Data Science & AI**
+* **[span_3](start_span)Languages:** Python (Jupyter Notebooks), SQL[span_3](end_span).
+* **[span_4](start_span)[span_5](start_span)Machine Learning:** Deep Learning, IA Generativa (Azure OpenAI), Clustering, Sentiment Analysis[span_4](end_span)[span_5](end_span).
+* **[span_6](start_span)[span_7](start_span)Tools:** Orange (Data Mining), Big Data, Statistics[span_6](end_span)[span_7](end_span).
 
-### 1. Diseñé un dashboard en Power BI para la campaña de marketing con PepsiCo que mejoraron la eficiencia de la visualización de datos en un 100%.
-### 2. Elaboré un dashboard en Power BI para la campaña de marketing con Regal Springs que mejoraron la eficiencia de la visualización de datos en un 100%.
-### 3. Mejoré un dashboard en Power BI para la campaña de marketing con SONY (2019-2025) que mejoraron la eficiencia de la visualización de datos en un 100%.
-### 4. Desarrollé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2324, que mejoraron la eficiencia de la visualización de datos en un 100%.
-### 5. Elaboré un dashboard en Power BI utilizando la base de datos interna de influencers para P&G LADMAR (2018-2024), que mejoraron la eficiencia de la visualización de datos en un 100%.
-### 6. Realicé un dashboard en Power BI para la campaña de marketing de influencers con P&G LADMAR FY2223, que mejoraron la eficiencia de la visualización de datos en un 100%
-### 7. Fui galardonada con el PREMIO DOING BUSINESS BETTER México 2023 por el dashboard de P&G LADMAR 2223.
-### 8. Reduje los errores al 97% mediante la optimización de procesos para capturar, analizar y visualizar métricas, lo que disminuyó el tiempo de entrega, el número de personas involucradas y mejoró la calidad y cantidad de los informes para los clientes. Realicé limpieza de datos, ETL, automatización de procesos y reportes en Excel Avanzado y Visual Basic (VBA), utilizando macros con DAX, Excel, Query, Sway y SharePoint para crear informes y reportes en tiempo real, tanto para uso interno como para clientes.
-### 9. Realicé el proyecto Reckitt (EBAC), proporcionando insights sobre rendimiento de ventas y predicciones para decisiones estratégicas. El proyecto incluyó: Introducción, ELT (Extracción, Carga, Transformación), Extracción y análisis de datos en SQLite, Análisis Exploratorio de Datos (EDA) y visualizaciones en Python, Interpretación de datos y segmentación de productos con clustering, Predicción de ventas con Machine Learning, Creación de dashboard en Python y Power BI; y Conclusiones y recomendaciones.
-### 10. Desarrollé un modelo de machine learning para análisis de sentimientos en Google Play Store (EBAC).
-### 11. Creé un modelo de machine learning para recomendaciones en predicciones de clientes para Amazon (EBAC).
+### **Data Visualization & BI**
+* **[span_8](start_span)Reporting:** Power BI, Looker Studio (Google Data Studio)[span_8](end_span).
+* **[span_9](start_span)Platform:** Microsoft Power Platform (PL-900 Certified)[span_9](end_span).
+* **[span_10](start_span)[span_11](start_span)Storytelling:** Expert in translating technical metrics into business insights[span_10](end_span)[span_11](end_span).
 
-## Habilidades Clave
+---
 
-**Técnicas:**
-*   **Análisis y Ciencia de Datos:** Data Science, Machine Learning (IA), Data Mining, Estadística aplicada y Big Data.
-*   **Visualización y Reporting:** Power BI, Microsoft Power Platform y Storytelling de datos.
-*   **Gestión de Datos:** Excel (Avanzado/VBA), SQL, Bases de Datos, Queries, procesos ETL y Python/R (Jupyter Notebook).
-*   **Herramientas y Desarrollo:** GitHub, HTML, Orange (Data Mining) y Microsoft PowerPoint / Google Slides.
-*   **Diseño y Multimedia:** Manejo de Adobe Suite y GIMP.
-  
-**Estratégicas y de Negocio:**
-*   **Especialidad de Negocio:** Análisis de Influencer Marketing, Interpretación de embudos de conversión y KPIs de marketing (Tasa de conversión, Tráfico, Costo de Adquisición de Clientes (Customer Acquisition Cost/CAC), Lifetime Value (Valor de Vida del Cliente/LTV), Investigación de mercado, Análisis competitivo, Segmentación de audiencias y Perfilado de clientes.
+## 📈 Featured Projects
 
-**Blandas (Soft Skills):**
-*   **Pensamiento y Resolución:** Pensamiento crítico, resolución proactiva de problemas y alta orientación al detalle.
-*   **Gestión y Resultados:** Orientación a resultados, gestión eficiente del tiempo y sentido del negocio.
-*   **Interpersonales:** Comunicación efectiva, presentación de datos, colaboración en equipo y adaptabilidad.
-*   **Actitud:** Curiosidad intelectual y aprendizaje continuo.
+### 🧴 [Reckitt Sales Intelligence](https://github.com/databimx/tu-repo-reckitt)
+* **[span_12](start_span)Goal:** Provided sales performance insights and predictions for strategic decisions[span_12](end_span).
+* **[span_13](start_span)Tech:** Python, SQLite, Machine Learning (Clustering), Power BI[span_13](end_span).
+* **[span_14](start_span)Highlights:** Conducted EDA, ETL processes, and created a predictive sales dashboard[span_14](end_span).
+
+### 🛍️ [Amazon Customer Recommendation Model](https://github.com/databimx/tu-repo-amazon)
+* **[span_15](start_span)Goal:** Developed a machine learning model for customer prediction and recommendations[span_15](end_span).
+* **Tech:** Python, Machine Learning algorithms.
+
+### 📱 [Google Play Sentiment Analysis](https://github.com/databimx/tu-repo-sentiment)
+* **[span_16](start_span)Goal:** Created a model to analyze user feedback and sentiment on the Play Store[span_16](end_span).
+* **Tech:** NLP, Python.
+
+---
+
+## 🎓 Education & Certifications
+* **[span_17](start_span)[span_18](start_span)Data Scientist Profession** - EBAC (2025)[span_17](end_span)[span_18](end_span).
+* **[span_19](start_span)Generative AI Master:** ChatGPT on Azure OpenAI[span_19](end_span).
+* **[span_20](start_span)PL-900 Microsoft Power Platform Certified**[span_20](end_span).
+* **[span_21](start_span)Data Analysis & BI with Power BI**[span_21](end_span).
+* **[span_22](start_span)Statistical Analysis with Excel** - Universidad Galileo[span_22](end_span).
+
+---
+
+## 📫 Connect with me:
+* **[span_23](start_span)LinkedIn:** [linkedin.com/in/daph-data-1257ab356](https://www.linkedin.com/in/daph-data-1257ab356)[span_23](end_span)
+* **[span_24](start_span)Email:** data.bi.mx@gmail.com[span_24](end_span)
+* **[span_25](start_span)Portfolio:** [github.com/databimx](https://github.com/databimx)[span_25](end_span)
+
+*"Turning data into stories that drive impact."*
+Hecho con ❤️ y datos.
 
 ## Licencia
 Todos los proyectos aquí presentados son parte de mi portafolio personal. 
 
 ---
 
-Hecho con ❤️ y datos.
+
 
 
 <!--
