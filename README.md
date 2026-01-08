@@ -1,61 +1,58 @@
-# Hi there, I'm Dafne Ramírez! 👋
+# Hi, I'm Dafne Ramírez! 👋 
+### Data Scientist | BI Expert | Award-Winning Dashboard Designer | B2 English 🇲🇽🇺🇸
 
-### Data Scientist Junior | Business Intelligence Specialist | B2 English 🇲🇽🇺🇸
-
-I am a bilingual Data Science professional certified by EBAC[span_0](end_span)[span_1](end_span). [span_2](start_span)I am passionate about transforming data into effective decisions, helping organizations in their digital transformation, and creating competitive advantages[span_2](end_span). My profile combines technical rigor (3C) with a strategic and human-centric approach (5B, 1D).
-
----
-
-## 🛠️ Technical Stack
-
-### **Data Science & AI**
-* **[span_3](start_span)Languages:** Python (Jupyter Notebooks), SQL[span_3](end_span).
-* **[span_4](start_span)[span_5](start_span)Machine Learning:** Deep Learning, IA Generativa (Azure OpenAI), Clustering, Sentiment Analysis[span_4](end_span)[span_5](end_span).
-* **[span_6](start_span)[span_7](start_span)Tools:** Orange (Data Mining), Big Data, Statistics[span_6](end_span)[span_7](end_span).
-
-### **Data Visualization & BI**
-* **[span_8](start_span)Reporting:** Power BI, Looker Studio (Google Data Studio)[span_8](end_span).
-* **[span_9](start_span)Platform:** Microsoft Power Platform (PL-900 Certified)[span_9](end_span).
-* **[span_10](start_span)[span_11](start_span)Storytelling:** Expert in translating technical metrics into business insights[span_10](end_span)[span_11](end_span).
+I don't just analyze data; I optimize businesses. With a background in **Communication (UNAM)** and a **Data Science Profession (EBAC)**, I specialize in reducing operational friction and boosting ROI through AI and Automation.
 
 ---
 
-## 📈 Featured Projects
+## 📊 Professional Experience & Case Studies
 
-### 🧴 [Reckitt Sales Intelligence](https://github.com/databimx/tu-repo-reckitt)
-* **[span_12](start_span)Goal:** Provided sales performance insights and predictions for strategic decisions[span_12](end_span).
-* **[span_13](start_span)Tech:** Python, SQLite, Machine Learning (Clustering), Power BI[span_13](end_span).
-* **[span_14](start_span)Highlights:** Conducted EDA, ETL processes, and created a predictive sales dashboard[span_14](end_span).
+During my 3+ years as a **Data Specialist**, I led high-impact projects for global market leaders in the **FMCG and Technology sectors** through a top-tier marketing agency.
 
-### 🛍️ [Amazon Customer Recommendation Model](https://github.com/databimx/tu-repo-amazon)
-* **[span_15](start_span)Goal:** Developed a machine learning model for customer prediction and recommendations[span_15](end_span).
-* **Tech:** Python, Machine Learning algorithms.
+### 🏆 Award-Winning BI Solution (Global CPG Client)
+* **Achievement:** Received the **"Doing Business Better 2023"** award.
+* **Impact:** Reduced manual reporting errors by 97% and boosted influencer recruitment efficiency by 50% using Power BI and automated ETL processes.
 
-### 📱 [Google Play Sentiment Analysis](https://github.com/databimx/tu-repo-sentiment)
-* **[span_16](start_span)Goal:** Created a model to analyze user feedback and sentiment on the Play Store[span_16](end_span).
-* **Tech:** NLP, Python.
+### 📈 Marketing Performance Analytics (Global Beverage & Electronics Clients)
+* **Optimization:** Redesigned data visualization workflows, achieving a 100% improvement in data clarity for multi-million dollar marketing campaigns.
+* **Tech:** Excel/VBA, Power BI, SharePoint, and SQL.
 
 ---
 
-## 🎓 Education & Certifications
-* **[span_17](start_span)[span_18](start_span)Data Scientist Profession** - EBAC (2025)[span_17](end_span)[span_18](end_span).
-* **[span_19](start_span)Generative AI Master:** ChatGPT on Azure OpenAI[span_19](end_span).
-* **[span_20](start_span)PL-900 Microsoft Power Platform Certified**[span_20](end_span).
-* **[span_21](start_span)Data Analysis & BI with Power BI**[span_21](end_span).
-* **[span_22](start_span)Statistical Analysis with Excel** - Universidad Galileo[span_22](end_span).
+## 🤖 Featured AI Project: Natural Language Data Assistant
+* **Goal:** Bridge the gap between non-technical users and complex databases.
+* **Tech:** Python, Open Source LLMs, Pandas.
+* **Impact:** Developed an interface to query datasets (like sales or marketing KPIs) using natural language, significantly reducing reporting time.
 
 ---
 
-## 📫 Connect with me:
-* **[span_23](start_span)LinkedIn:** [linkedin.com/in/daph-data-1257ab356](https://www.linkedin.com/in/daph-data-1257ab356)[span_23](end_span)
-* **[span_24](start_span)Email:** data.bi.mx@gmail.com[span_24](end_span)
-* **[span_25](start_span)Portfolio:** [github.com/databimx](https://github.com/databimx)[span_25](end_span)
+## 🛠️ Technical Ecosystem
 
+- **Languages & Logic:** Python (Pandas, Scikit-learn), SQL, VBA, ETL.
+- **AI & ML:** Generative AI (LLMs), Machine Learning (Clustering, Regression), NLP.
+- **BI & Cloud:** Power BI, Microsoft Power Platform, SharePoint, Azure.
+- **Marketing Analytics:** CAC, LTV, ROI, Influencer Marketing Performance.
+
+---
+
+## 📊 Key Case Studies
+- **Reckitt:** Sales forecasting and product clustering.
+- **Amazon:** Customer behavior prediction & recommendation system.
+- **Costumer Electronics Sales Intelligence & FMCG Marketing Performance Tracker:** Interactive Power BI dashboards for global marketing campaigns.
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [www.linkedin.com/in/daph-data-1257ab356 ]
+- **Email:** data.bi.mx@gmail.com
+- **Portfolio:** [https://github.com/databimx]
+
+*"Turning data complexity into business simplicity."*
 *"Turning data into stories that drive impact."*
-Hecho con ❤️ y datos.
+Made with ❤️ and data.
 
-## Licencia
-Todos los proyectos aquí presentados son parte de mi portafolio personal. 
+## License
+All the projects presented here are part of my personal portfolio. 
 
 ---
 
