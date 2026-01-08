@@ -2,7 +2,7 @@
 
 ### Data Scientist Junior | Business Intelligence Specialist | B2 English 🇲🇽🇺🇸
 
-[span_0](start_span)[span_1](start_span)I am a bilingual Data Science professional certified by EBAC[span_0](end_span)[span_1](end_span). [span_2](start_span)I am passionate about transforming data into effective decisions, helping organizations in their digital transformation, and creating competitive advantages[span_2](end_span). My profile combines technical rigor (3C) with a strategic and human-centric approach (5B, 1D).
+I am a bilingual Data Science professional certified by EBAC[span_0](end_span)[span_1](end_span). [span_2](start_span)I am passionate about transforming data into effective decisions, helping organizations in their digital transformation, and creating competitive advantages[span_2](end_span). My profile combines technical rigor (3C) with a strategic and human-centric approach (5B, 1D).
 
 ---
 
