@@ -11,7 +11,7 @@ During my 3+ years as a **Data Specialist**, I led high-impact projects for glob
 
 ### 🏆 Award-Winning BI Solution (Global CPG Client)
 * **Achievement:** Received the **"Doing Business Better 2023"** award.
-* **Impact:** Reduced manual reporting errors by 97% and boosted influencer recruitment efficiency by 50% using Power BI and automated ETL processes.
+* **Impact:** Reduced manual reporting errors by 97% and boosted influencer recruitment efficiency by 60% using Power BI and automated ETL processes.
 
 ### 📈 Marketing Performance Analytics (Global Beverage & Electronics Clients)
 * **Optimization:** Redesigned data visualization workflows, achieving a 100% improvement in data clarity for multi-million dollar marketing campaigns.
