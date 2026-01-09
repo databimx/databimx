@@ -23,22 +23,7 @@ During my 3+ years as a **Data Specialist**, I led high-impact projects for glob
 * **Goal:** Bridge the gap between non-technical users and complex databases.
 * **Tech:** Python, Open Source LLMs, Pandas.
 * **Impact:** Developed an interface to query datasets (like sales or marketing KPIs) using natural language, significantly reducing reporting time.
-
-## 🛠️ Technical FAQ & Security (Best Practices)
-* Q: How is data privacy handled in this project? 
-* A: Since I utilize the Azure OpenAI Service architecture, data privacy is guaranteed. Unlike public LLMs, data sent to the API is not used to train global models. Furthermore, I recommend and implement data anonymization (removing PII) before any dataset processing.
-
-* Q: How do you prevent AI hallucinations in data reporting? 
-* A: The system doesn't rely on the LLM's memory to provide figures. Instead, it uses the LLM as a code generator. The model writes the Python/Pandas script, which is then executed against the local source of truth (the CSV/SQL database). This ensures that the results are calculated, not "guessed."  
-
-* Q: How are API costs optimized? 
-* A: Cost management is handled through:
-Prompt Engineering: Concise instructions to minimize token usage.
-Result Caching: Preventing redundant calls for recurring queries.
-Model Selection: Using specialized, lighter models for simple queries and reserving high-tier models for complex multi-variable analysis.
-
-* Q: Is this system scalable for Big Data? 
-* A: Yes. By integrating SQL and distributed processing tools like Big Data frameworks (Spark/Databricks), the natural language layer acts as an interface while the heavy lifting is done by optimized data engines. 
+* This is a cost-effective solution compared to relying on expensive paid subscriptions. 
 ---
 
 ## 🛠️ Technical Ecosystem
