@@ -1,5 +1,5 @@
 # Hi, I'm Dafne Ramírez! 👋 
-### Data Scientist | BI Expert | Award-Winning Dashboard Designer | B2 English 🇲🇽🇺🇸
+### Data Scientist | BI Expert | Award-Winning Dashboard Designer | B2 English 🇲🇽 🇺🇸
 
 I don't just analyze data; I optimize businesses. With a background in **Communication (UNAM)** and a **Data Science Profession (EBAC)**, I specialize in reducing operational friction and boosting ROI through AI and Automation.
 
