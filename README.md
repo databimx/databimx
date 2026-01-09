@@ -23,7 +23,7 @@ During my 3+ years as a **Data Specialist**, I led high-impact projects for glob
 * **Goal:** Bridge the gap between non-technical users and complex databases.
 * **Tech:** Python, Open Source LLMs, Pandas.
 * **Impact:** Developed an interface to query datasets (like sales or marketing KPIs) using natural language, significantly reducing reporting time.
-* This is a cost-effective solution compared to relying on expensive paid subscriptions. 
+* This is a cost-effective solution for companies that do not want to rely on expensive paid subscriptions. 
 ---
 
 ## 🛠️ Technical Ecosystem
