@@ -49,8 +49,6 @@ During my 3+ years as a **Data Specialist**, I led high-impact projects for glob
 
 *"Turning data complexity into business simplicity."*
 
-*"Turning data into stories that drive impact."*
-
 Made with ❤️ and data.
 
 ## License
