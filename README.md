@@ -43,9 +43,9 @@ During my 3+ years as a **Data Specialist**, I led high-impact projects for glob
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [www.linkedin.com/in/daph-data-1257ab356 ]
+- **LinkedIn:** www.linkedin.com/in/daph-data-1257ab356
 - **Email:** data.bi.mx@gmail.com
-- **Portfolio:** [https://github.com/databimx]
+- **Portfolio:** https://github.com/databimx
 
 *"Turning data complexity into business simplicity."*
 
