@@ -1,7 +1,7 @@
 # 👩‍💻 Dafne | Data Analyst · Data Scientist
 
 Bienvenida/o a mi repositorio 👋  
-Soy **Científica de Datos y Analista de Business Insights**, especializada en transformar datos en **decisiones estratégicas de negocio** mediante análisis, visualización e inteligencia artificial aplicada.
+Soy **Científica de Datos y Analista de Business Insights**, especializada en transformar datos en **decisiones estratégicas de negocio** mediante análisis, visualización e inteligencia artificial aplicada. English: Intermediate (B1).
 
 ---
 
