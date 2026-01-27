@@ -17,21 +17,14 @@ Soy **Científica de Datos y Analista de Business Insights**, especializada en t
 
 ## 🛠️ Habilidades técnicas
 
-**Data Science & Analytics**  
-- Python · SQL · Pandas · Scikit-learn  
-- Estadística aplicada · Data Mining · Machine Learning  
-- Jupyter Notebook · Exploratory Data Analysis (EDA)
+**Data Analytics & BI**  
+ Python · SQL · Power BI · ETL · Data Visualization · Statistics
 
-**Business Intelligence & Automation**  
-- Power BI (Avanzado) · DAX · Power Query (M)  
-- ETL · Data Visualization · Dashboard Design  
-- Excel Avanzado · VBA · SharePoint  
+**Advanced Analytics**  
+ Machine Learning · Forecasting · Clustering · NLP 
 
-**IA Generativa**  
-- Prompt Engineering  
-- LLMs (uso aplicado)  
-- Text-to-SQL · Generación automática de insights  
-- IA como apoyo al análisis de datos  
+**Business Analytics**  
+ KPIs · ROI · CAC · LTV · Performance Analysis 
 
 ---
 
