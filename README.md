@@ -1,55 +1,65 @@
 # 👩‍💻 Dafne | Data Analyst · Data Scientist
 
 Bienvenida/o a mi repositorio 👋  
-Soy **Científica de Datos y Analista de Business Insights**, especializada en transformar datos en **decisiones estratégicas de negocio** mediante análisis, visualización e inteligencia artificial aplicada. English: Intermediate (B1).
+Soy **Data & Marketing Analyst | Business Intelligence | FMCG Insights**, especializada en transformar datos en **decisiones estratégicas de negocio** mediante análisis, visualización e inteligencia artificial aplicada.
 
 ---
 
 ## 🔍 Sobre mí
 
-- 📊 +3 años de experiencia en análisis de datos, Business Intelligence y automatización de reportes  
-- 🧠 Enfoque en **impacto de negocio, métricas y toma de decisiones**  
-- 📈 Experiencia en dashboards ejecutivos, análisis de performance y optimización de procesos  
-- 🤖 Interés en **IA Generativa aplicada a Data Science y Analytics**  
-- 🗣️ Comunicación clara y storytelling con datos  
+*Data Analyst especializada en el sector de Consumo Masivo (FMCG) y Marketing, con más de 3 años de experiencia transformando datos masivos en insights accionables. Experta en la automatización de reportes (ETL), análisis de desempeño comercial y modelos predictivos para optimizar el ROI y la toma de decisiones estratégicas. Dominio avanzado de Python, SQL y Power BI para el seguimiento de KPIs de ventas e Influencer Marketing.*
 
 ---
 
 ## 🛠️ Habilidades técnicas
 
-**Data Analytics & BI**  
- Python · SQL · Power BI · ETL · Data Visualization · Statistics
+**Análisis y BI** 
+Power BI, SQL, ETL, Visualización de Datos, Estadísticas.
 
-**Advanced Analytics**  
- Machine Learning · Forecasting · Clustering · NLP 
+**Data Science**  
+Python, Machine Learning, Forecasting (Ventas), Clustering (Segmentación), NLP. 
 
-**Business Analytics**  
- KPIs · ROI · CAC · LTV · Performance Analysis 
+**Marketing Analytics**  
+KPIs, ROI, CAC, LTV, Performance Analysis, Sentiment Analysis.
+
+**Herramientas**  
+Excel Avanzado, VBA, SharePoint, LLMs (Prompt Engineering).
+
+**Idiomas**  
+Inglés Intermedio (B1).
 
 ---
+## 📂 EXPERIENCIA LABORAL
 
-## 📂 Proyectos destacados
-
-### 🔹 Data Analytics & Business Insights
-- Dashboards ejecutivos para análisis de ventas y marketing  
-- Automatización de reportes y reducción de tiempos operativos  
-- Análisis de KPIs: ROI, CAC, LTV, performance y engagement  
-
-### 🔹 Proyectos de IA Generativa
-- **Text-to-SQL:** consultas a bases de datos mediante lenguaje natural  
-- **Prompt Engineering para Data Science:** limpieza de datos y generación de código Python optimizado  
-- Prototipos de IA para análisis ad-hoc y aceleración del análisis  
+### 🔹 Data Analyst & Insights | Agencia Confidencial (Sector Marketing/Consumo) | Noviembre 2021 – Mayo 2025
+- **Optimicé** procesos de análisis y visualización de datos, logrando una **reducción de errores del 97%** y disminuyendo el tiempo de entrega en un **83%.**
+- **Diseñé y ejecuté** dashboards estratégicos en Power BI para campañas de consumo masivo e Influencer Marketing, impulsando un **incremento en ventas de hasta el 60%** y logrando un 100% de satisfacción del cliente.
+- **Automaticé** el flujo de trabajo mediante procesos ETL, VBA y SharePoint, habilitando la consulta de reportes en tiempo real para la toma de decisiones ágil.
+- **Lideré** la creación de una base de datos centralizada de influencers a nivel regional, garantizando el 100% de visibilidad del pool de talento para futuras campañas.
+- **Generé** análisis de desempeño comercial para marcas de retail, mejorando la comprensión histórica de resultados y la eficiencia operativa interna en un 63%.
 
 *(Los proyectos incluidos en este repositorio tienen fines demostrativos y educativos.)*
 
 ---
 
-## 🎯 En qué estoy trabajando actualmente
+## 📂 PROYECTOS ESTRATÉGICOS (DATA SCIENCE & IA)
 
-- Analítica avanzada orientada a negocio  
-- IA Generativa aplicada a análisis de datos  
-- Mejora continua en storytelling y visualización  
-- Desarrollo de portafolio profesional
+### 🔹 Sales Intelligence & Forecasting (Reckitt)
+Desarrollé modelos de Clustering para segmentación de productos y algoritmos de Machine Learning para predicción de ventas, optimizando la planificación de inventarios y demanda.
+
+### 🔹 Sentiment Analysis (Google Play Store)
+Implementé un modelo de NLP para clasificar feedback de usuarios, convirtiendo texto no estructurado en KPIs accionables para mejorar el producto.
+
+### 🔹 Automatización de Reportes con IA
+Desarrollé interfaces de lenguaje natural para consultas SQL, reduciendo drásticamente el tiempo de generación de reportes ad-hoc mediante Prompt Engineering.
+
+*(Los proyectos incluidos en este repositorio tienen fines demostrativos y educativos.)*
+
+---
+
+## 🎯 EDUCACIÓN 
+- Ciencia de Datos | EBAC (2025)
+- Licenciatura en Ciencias de la Comunicación | UNAM (2009)
 
 ---
 
