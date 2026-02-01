@@ -14,19 +14,19 @@ Soy **Data & Marketing Analyst | Business Intelligence | FMCG Insights**, especi
 ## 🛠️ Habilidades técnicas
 
 **Análisis y BI** 
-Power BI, SQL, ETL, Visualización de Datos, Estadísticas.
+- Power BI, SQL, ETL, Visualización de Datos, Estadísticas.
 
 **Data Science**  
-Python, Machine Learning, Forecasting (Ventas), Clustering (Segmentación), NLP. 
+- Python, Machine Learning, Forecasting (Ventas), Clustering (Segmentación), NLP. 
 
 **Marketing Analytics**  
-KPIs, ROI, CAC, LTV, Performance Analysis, Sentiment Analysis.
+- KPIs, ROI, CAC, LTV, Performance Analysis, Sentiment Analysis.
 
 **Herramientas**  
-Excel Avanzado, VBA, SharePoint, LLMs (Prompt Engineering).
+- Excel Avanzado, VBA, SharePoint, LLMs (Prompt Engineering).
 
 **Idiomas**  
-Inglés Intermedio (B1).
+- Inglés Intermedio (B1).
 
 ---
 ## 📂 EXPERIENCIA LABORAL
@@ -49,6 +49,9 @@ Desarrollé modelos de Clustering para segmentación de productos y algoritmos d
 
 ### 🔹 Sentiment Analysis (Google Play Store)
 Implementé un modelo de NLP para clasificar feedback de usuarios, convirtiendo texto no estructurado en KPIs accionables para mejorar el producto.
+
+### 🔹 Recomendación de Productos (Amazon) 
+Creé un motor predictivo para optimizar la experiencia del usuario mediante sistemas de recomendación personalizados.
 
 ### 🔹 Automatización de Reportes con IA
 Desarrollé interfaces de lenguaje natural para consultas SQL, reduciendo drásticamente el tiempo de generación de reportes ad-hoc mediante Prompt Engineering.
