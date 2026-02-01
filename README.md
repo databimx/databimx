@@ -1,9 +1,6 @@
-# 👩‍💻 Dafne | Data Analyst · Data Scientist
+# 👩‍💻 Dafne | Data & Marketing Analyst | Business Intelligence | FMCG Insight
 
 Bienvenida/o a mi repositorio 👋  
-Soy **Data & Marketing Analyst | Business Intelligence | FMCG Insights**, especializada en transformar datos en **decisiones estratégicas de negocio** mediante análisis, visualización e inteligencia artificial aplicada.
-
----
 
 ## 🔍 Sobre mí
 
