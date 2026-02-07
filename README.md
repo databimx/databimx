@@ -1,4 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d55d6b3a-7f66-431f-9c5a-66ebc759cae7" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed51cd96-53be-4ff8-9dc4-a8e125eace32" />
+
 
 # Hola, soy Dafne Ramírez 👋
 ### Data & Marketing Analyst | Business Intelligence | FMCG Insights
