@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dda96ca9-b63c-4fcf-afbf-c905f117642a" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d55d6b3a-7f66-431f-9c5a-66ebc759cae7" />
 
 # Hola, soy Dafne Ramírez 👋
 ### Data & Marketing Analyst | Business Intelligence | FMCG Insights
@@ -54,10 +54,10 @@ Estoy siempre en busca de nuevos retos donde pueda aplicar el análisis de datos
 * Explora mis repositorios: Revisa mis proyectos de Machine Learning y Forecasting aquí mismo en GitHub.
 
 ## 📫 Contacto
-* **LinkedIn:** [www.linkedin.com/in/daph-data-1257ab356]
-* [cite_start]**Email:** data.bi.mx@gmail.com [cite: 3]
-* [cite_start]**Ubicación:** Ciudad de México [cite: 3]
-* [cite_start]**Portfolio WEB:** https://sites.google.com/view/dafolio/home [cite: 3]
+* **LinkedIn:** www.linkedin.com/in/daph-data-1257ab356
+* **Email:** data.bi.mx@gmail.com
+* **Ubicación:** Ciudad de México
+* **Portfolio WEB:** https://sites.google.com/view/dafolio/home
 
 ✨ *Creo firmemente que los datos solo generan valor cuando se convierten en decisiones claras y accionables.*
 
