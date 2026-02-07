@@ -1,77 +1,67 @@
-# 👩‍💻 Dafne | Data & Marketing Analyst | Business Intelligence | FMCG Insight
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/dda96ca9-b63c-4fcf-afbf-c905f117642a" />
 
-Bienvenida/o a mi repositorio 👋  
+# Hola, soy Dafne Ramírez 👋
+### Data & Marketing Analyst | Business Intelligence | FMCG Insights
 
-## 🔍 Sobre mí
+[cite_start]Analista de datos especializada en el sector de Consumo Masivo (FMCG) y Marketing[cite: 2, 5]. [cite_start]Cuento con más de 3 años de experiencia transformando datos masivos en insights accionables y optimizando el ROI mediante modelos predictivos y automatización[cite: 5, 6].
 
-*Data Analyst especializada en el sector de Consumo Masivo (FMCG) y Marketing, con más de 3 años de experiencia transformando datos masivos en insights accionables. Experta en la automatización de reportes (ETL), análisis de desempeño comercial y modelos predictivos para optimizar el ROI y la toma de decisiones estratégicas. Dominio avanzado de Python, SQL y Power BI para el seguimiento de KPIs de ventas e Influencer Marketing.*
+## 🛠️ Tecnologías y Herramientas
+* [cite_start]**Análisis y BI:** Power BI, SQL, ETL, Visualización de Datos y Estadística[cite: 9].
+* [cite_start]**Data Science:** Python (Machine Learning, Forecasting, Clustering, NLP)[cite: 10].
+* [cite_start]**Marketing Analytics:** KPIs, ROI, CAC, LTV y Sentiment Analysis[cite: 11].
+* [cite_start]**Automatización e IA:** VBA, SharePoint, LLMs y Prompt Engineering[cite: 12, 26].
 
----
+## 🚀 Impacto y Resultados
+* [cite_start]**Eficiencia:** Reducción del 83% en tiempos de entrega y 97% en errores de análisis[cite: 16, 17].
+* [cite_start]**Ventas:** Diseño de dashboards estratégicos que impulsaron incrementos en ventas de hasta el 60%[cite: 18].
+* [cite_start]**Innovación:** Desarrollo de modelos de Forecasting para Reckitt y sistemas de recomendación tipo Amazon[cite: 23, 25].
 
-## 🛠️ Habilidades técnicas
+## 🧪 Proyectos Destacados (Data Science & IA)
 
-**Análisis y BI** 
-- Power BI, SQL, ETL, Visualización de Datos, Estadísticas.
+### 📈 Sales Intelligence & Forecasting (Caso Reckitt)
+Desarrollo de una solución integral para la optimización de inventarios mediante análisis predictivo.
+* Tecnologías: Python, Scikit-learn, Clustering algorithms.
+* Impacto: Implementación de modelos de segmentación de productos y algoritmos de Machine Learning para predecir la demanda con alta precisión, mejorando la planificación estratégica.
 
-**Data Science**  
-- Python, Machine Learning, Forecasting (Ventas), Clustering (Segmentación), NLP. 
+### 🗣️ Sentiment Analysis (Google Play Store)
+Transformación de feedback cualitativo en métricas cuantitativas para la mejora de productos digitales.
+* Tecnologías: NLP (Procesamiento de Lenguaje Natural), Python.
+* Impacto: Clasificación automatizada de reseñas de usuarios, convirtiendo texto no estructurado en KPIs accionables para el equipo de producto.
 
-**Marketing Analytics**  
-- KPIs, ROI, CAC, LTV, Performance Analysis, Sentiment Analysis.
+### 🤖 Automatización de Reportes con GenAI
+Optimización de la accesibilidad de datos mediante interfaces de lenguaje natural.
+* Tecnologías: LLMs, Prompt Engineering, SQL.
+* Impacto: Reducción drástica del tiempo de generación de reportes ad-hoc al permitir consultas a bases de datos mediante lenguaje sencillo.
 
-**Herramientas**  
-- Excel Avanzado, VBA, SharePoint, LLMs (Prompt Engineering).
+* 📧 (Los proyectos incluidos en este repositorio tienen fines demostrativos y educativos.)*
 
-**Idiomas**  
-- Inglés Intermedio (B1).
+### 🧠 Soft Skills & Enfoque de Negocio
+Más allá del código, mi enfoque se centra en:
+* Traducción de Datos a Estrategia: Capacidad para convertir métricas complejas en narrativas claras para stakeholders. 
+* Visión Comercial: Especialización en el sector FMCG y Retail, entendiendo las palancas que mueven el ROI y el desempeño en anaquel. 
+* Agilidad y Eficiencia: Enfoque proactivo en la automatización de procesos para eliminar cuellos de botella operativos. 
+* Comunicación Intercultural: Nivel de inglés intermedio (B1), permitiendo la colaboración en entornos diversos.
 
----
-## 📂 EXPERIENCIA LABORAL
+## 🎓 Educación y Certificaciones
+* [cite_start]**Ciencia de Datos** - EBAC (2025)[cite: 28].
+* [cite_start]**Lic. en Ciencias de la Comunicación** - UNAM[cite: 29].
+* [cite_start]**Certificaciones:** SQL, Microsoft Power Platform (PL-900) e IA Generativa en Azure OpenAI[cite: 31, 32].
 
-### 🔹 Data Analyst & Insights | Agencia Confidencial (Sector Marketing/Consumo) | Noviembre 2021 – Mayo 2025
-- **Optimicé** procesos de análisis y visualización de datos, logrando una **reducción de errores del 97%** y disminuyendo el tiempo de entrega en un **83%.**
-- **Diseñé y ejecuté** dashboards estratégicos en Power BI para campañas de consumo masivo e Influencer Marketing, impulsando un **incremento en ventas de hasta el 60%** y logrando un 100% de satisfacción del cliente.
-- **Automaticé** el flujo de trabajo mediante procesos ETL, VBA y SharePoint, habilitando la consulta de reportes en tiempo real para la toma de decisiones ágil.
-- **Lideré** la creación de una base de datos centralizada de influencers a nivel regional, garantizando el 100% de visibilidad del pool de talento para futuras campañas.
-- **Generé** análisis de desempeño comercial para marcas de retail, mejorando la comprensión histórica de resultados y la eficiencia operativa interna en un 63%.
-
-*(Los proyectos incluidos en este repositorio tienen fines demostrativos y educativos.)*
-
----
-
-## 📂 PROYECTOS ESTRATÉGICOS (DATA SCIENCE & IA)
-
-### 🔹 Sales Intelligence & Forecasting (Reckitt)
-Desarrollé modelos de Clustering para segmentación de productos y algoritmos de Machine Learning para predicción de ventas, optimizando la planificación de inventarios y demanda.
-
-### 🔹 Sentiment Analysis (Google Play Store)
-Implementé un modelo de NLP para clasificar feedback de usuarios, convirtiendo texto no estructurado en KPIs accionables para mejorar el producto.
-
-### 🔹 Recomendación de Productos (Amazon) 
-Creé un motor predictivo para optimizar la experiencia del usuario mediante sistemas de recomendación personalizados.
-
-### 🔹 Automatización de Reportes con IA
-Desarrollé interfaces de lenguaje natural para consultas SQL, reduciendo drásticamente el tiempo de generación de reportes ad-hoc mediante Prompt Engineering.
-
-*(Los proyectos incluidos en este repositorio tienen fines demostrativos y educativos.)*
-
----
-
-## 🎯 EDUCACIÓN 
-- Ciencia de Datos | EBAC (2025)
-- Licenciatura en Ciencias de la Comunicación | UNAM (2009)
-
----
+## 📬 ¡Conectemos!
+Estoy siempre en busca de nuevos retos donde pueda aplicar el análisis de datos para resolver problemas complejos de negocio y optimizar la toma de decisiones estratégicas.
+* ¿Interesado en mi trabajo? Puedes escribirme directamente a data.bi.mx@gmail.com.
+* Networking: Conectemos en LinkedIn para platicar sobre datos, marketing y tecnología.
+* Explora mis repositorios: Revisa mis proyectos de Machine Learning y Forecasting aquí mismo en GitHub.
 
 ## 📫 Contacto
-
-- 💼 LinkedIn: *www.linkedin.com/in/daph-data-1257ab356*  
-- 📧 Email: data.bi.mx@gmail.com
-- Portfolio WEB: https://sites.google.com/view/dafolio/home
-
----
+* [cite_start]**LinkedIn:** www.linkedin.com/in/daph-data-1257ab356 [cite: 4]
+* [cite_start]**Email:** data.bi.mx@gmail.com [cite: 3]
+* [cite_start]**Ubicación:** Ciudad de México [cite: 3]
+* [cite_start]**Portfolio WEB:** https://sites.google.com/view/dafolio/home [cite: 3]
 
 ✨ *Creo firmemente que los datos solo generan valor cuando se convierten en decisiones claras y accionables.*
+
+
 
 ## License
 All the projects presented here are part of my personal portfolio. 
