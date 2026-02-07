@@ -54,7 +54,7 @@ Estoy siempre en busca de nuevos retos donde pueda aplicar el análisis de datos
 * Explora mis repositorios: Revisa mis proyectos de Machine Learning y Forecasting aquí mismo en GitHub.
 
 ## 📫 Contacto
-* [cite_start]**LinkedIn:** www.linkedin.com/in/daph-data-1257ab356 [cite: 4]
+* [www.linkedin.com/in/daph-data-1257ab356]**LinkedIn:**
 * [cite_start]**Email:** data.bi.mx@gmail.com [cite: 3]
 * [cite_start]**Ubicación:** Ciudad de México [cite: 3]
 * [cite_start]**Portfolio WEB:** https://sites.google.com/view/dafolio/home [cite: 3]
