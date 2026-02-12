@@ -1,53 +1,99 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/ed51cd96-53be-4ff8-9dc4-a8e125eace32" />
+# Dafne Ramírez 👋
+## Business Intelligence & Automation Analyst
+**I build scalable data systems that drive measurable business impact.**
+
+## Impact Highlights
+* +60% campaign revenue growth
+* 83% reporting time reduction
+* 97% data error reduction
+* 63% operational efficiency improvement
+
+## 🛠️ Tech Stack visual
+* Power BI
+* SQL
+* Python (Pandas, Sklearn)
+* ETL
+* Machine Learning
+* Power Platform
+* English (B1)
+
+## Sales Forecasting Demand Optimization
+
+#### Business Problem
+Reckitt needed to understand product consumption patterns and improve demand planning accuracy. The challenge was to consolidate sales data, segment products based on performance behavior, and forecast future demand to support strategic inventory and marketing decisions.
+
+#### Dataset
+Historical sales and consumption data processed through ELT pipelines using SQLite, including transactional records, product-level performance metrics, and time-series sales data for forecasting analysis.
+
+#### Methodology
+I designed an ELT workflow to clean and structure the data, performed exploratory data analysis (EDA) to identify trends and seasonality, implemented clustering techniques for product segmentation, and built ARIMA/SARIMA time-series models to forecast sales. The results were visualized through interactive dashboards in Python and Power BI for executive decision-making.
+
+#### Results
+The project identified high-performing product clusters, uncovered seasonality patterns, and generated multi-year sales forecasts (extended to 2024–2026). The solution demonstrated how predictive analytics can optimize demand planning and reduce uncertainty in inventory strategy.
+
+#### Screenshots
+Include:
+* Power BI executive dashboard overview
+* mTime-series forecast visualization (ARIMA/SARIMA output)
+* Product clustering visualization (scatter plot or PCA projection)
+[Reckitt - Sales Prediction with Machine Learning](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Reckitt.jpg)
+
+#### What I Would Do Differently in Production
+In a production environment, I would deploy the forecasting model using a cloud-based pipeline (BigQuery or Snowflake), automate retraining schedules, implement model performance monitoring (MAPE tracking), and integrate the dashboard directly into a live data warehouse to ensure real-time decision support.
+
+## NLP Sentiment Analytics
+#### Business Problem
+Understanding user sentiment at scale is critical for app positioning and pricing strategy. The objective was to analyze app categories, ratings, pricing models, and user reviews to extract actionable insights that could inform product strategy and monetization decisions.
+
+#### Dataset
+Google Play Store dataset containing app categories, ratings, pricing, size, and thousands of user reviews in unstructured text format.
+
+#### Methodology
+Performed data cleaning and feature engineering, followed by exploratory analysis to identify relationships between category, pricing, and ratings. Implemented Natural Language Processing (NLP) techniques to classify review sentiment (positive, negative, neutral). Combined structured and unstructured analysis to generate actionable KPIs.
+
+#### Results
+The analysis revealed that free and lightweight apps dominate downloads, with an average rating of 4.3 across categories. Sentiment analysis showed predominantly positive feedback, with price playing a more significant role in adoption than category alone. The project demonstrates how NLP can transform unstructured reviews into strategic product insights.
+
+#### Screenshots
+Include:
+Sentiment distribution bar chart
+Category vs Rating visualization
+Free vs Paid comparison
+[Google - Conclusions 1](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Google.jpg)
+
+#### What I Would Do Differently in Production
+In production, I would deploy a transformer-based NLP model (e.g., BERT), implement real-time sentiment streaming using APIs, and create an automated alert system to flag sudden negative sentiment spikes affecting app ratings.
 
 
-# Hola, soy Dafne Ramírez 👋
-### Marketing Data & BI Analyst | Data Science | Automation & AI
+## Customer Segmentation Recommendation Engine
+#### Business Problem
+E-commerce platforms rely on personalization to increase retention and conversion rates. The goal of this project was to segment customers based on behavioral patterns and generate product recommendations using clustering techniques.
 
-[cite_start]Marketing Data & BI Analyst with 4+ years of experience transforming commercial and campaign data into strategic insights. Specialized in Power BI, Python, SQL, ETL automation, and Machine Learning for sales forecasting, segmentation, and performance optimization. Proven impact: reduced reporting time by 83%, decreased errors by 97%, and supported campaigns that increased sales up to 60%. Award-winning dashboard developer (Porter Novelli, 2023).[cite: 5, 6].
+#### Dataset
+Amazon customer purchase dataset including product attributes, ratings, delivery preferences, durability scores, and customer-level interaction metrics.
 
-## 🛠️ CORE SKILLS
-* **Data & BI:** Power BI, SQL, ETL, DAX, Data Modeling, KPI Tracking
-* **Programming:** Python (Pandas, Scikit-learn, NLP), VBA
-* **Analytics:** Forecasting, Clustering, Sentiment Analysis, Marketing Analytics (ROI, CAC, LTV)
-* **Automation:** Power Automate, SharePoint, Excel Advanced, Prompt Engineering (LLMs)
-* **Tools:** Jupyter Notebook, GitHub, Google Data Studio, Power Platform
-* **Languages:** Spanish (Native), English (B1)
+#### Methodology
+Performed preprocessing and dimensionality reduction using PCA, followed by hierarchical clustering to group customers with similar preferences. Analyzed cluster characteristics to design recommendation logic based on shared behavioral attributes.
 
-## 🚀 PROFESSIONAL EXPERIENCE
-**Data Analyst & Insights | Marketing & Consumer Agency** | Nov 2021 – May 2025
+#### Results
+Identified distinct behavioral clusters driven by delivery speed, product quality, durability, and visual presentation preferences. Generated personalized recommendation logic based on similarity patterns, demonstrating how segmentation can support targeted marketing and increase purchase probability.
 
-* Designed and deployed 6+ Power BI dashboards for consumer and retail clients, increasing campaign-driven sales up to 60% and earning the Doing Business Better Award (2023).
-* Automated ETL workflows (Power BI, VBA, SQL, SharePoint), reducing reporting time by 83% and decreasing data errors by 97%.
-* Built centralized influencer and performance databases, improving operational efficiency by 63% and enabling real-time executive decision-making.
+#### Screenshots
+Include:
+Dendrogram (Hierarchical Clustering)
+PCA 2D visualization
+Example of customer-to-customer recommendation mapping
+[Amazon - PCA](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Amazon.jpg)
 
-## 🧪 DATA SCIENCE PROJECTS
+#### What I Would Do Differently in Production
+In a real-world implementation, I would transition from clustering-based similarity to a hybrid recommendation engine (collaborative + content-based filtering), deploy it via API, and evaluate performance using precision@k and recall@k metrics within an A/B testing framework.
 
-* **Sales Forecasting (Reckitt):** Built ML models and clustering algorithms to optimize demand planning and product segmentation.
-* **Sentiment Analysis (Google Play):** Developed NLP model to convert unstructured reviews into actionable KPIs.
-* **Recommendation Engine (Amazon dataset):** Designed predictive system to improve personalization strategies.
-* **AI-Powered SQL Assistant:** Implemented LLM-based natural language querying to reduce ad-hoc reporting time.
-
-## 🎓 Educación 
-Specialization in Data Science – EBAC (2025)
-B.A. in Communication Sciences – UNAM
-
-## ✨ Certificaciones
-* SQL y Microsoft Power Platform (preparación para PL-900) – 2024
-* IA generativa y preparación para Azure OpenAI – 2023
-* Análisis estadístico con Excel – 2022
-
-## 📬 ¡Conectemos!
-Estoy siempre en busca de nuevos retos donde pueda aplicar el análisis de datos para resolver problemas complejos de negocio y optimizar la toma de decisiones estratégicas.
-* ¿Interesado en mi trabajo? Puedes escribirme directamente a data.bi.mx@gmail.com.
-* Networking: Conectemos en LinkedIn para platicar sobre datos, marketing y tecnología.
-* Explora mis repositorios: Revisa mis proyectos de Machine Learning y Forecasting aquí mismo en GitHub.
 
 ## 📫 Contacto
 * **LinkedIn:** www.linkedin.com/in/daph-data-1257ab356
 * **Email:** data.bi.mx@gmail.com
 * **Ubicación:** Ciudad de México
-* **Portfolio WEB:** https://sites.google.com/view/dafolio/home
+* **WEB Portfolio:** https://sites.google.com/view/dafolio/home
 
 ## License
 All the projects presented here are part of my personal portfolio. 
