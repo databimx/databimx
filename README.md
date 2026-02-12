@@ -17,7 +17,7 @@
 * Power Platform
 * English (B1)
 
-## Sales Forecasting Demand Optimization
+## 1️⃣ Sales Forecasting Demand Optimization
 
 #### Business Problem
 Reckitt needed to understand product consumption patterns and improve demand planning accuracy. The challenge was to consolidate sales data, segment products based on performance behavior, and forecast future demand to support strategic inventory and marketing decisions.
@@ -41,7 +41,7 @@ Include:
 #### What I Would Do Differently in Production
 In a production environment, I would deploy the forecasting model using a cloud-based pipeline (BigQuery or Snowflake), automate retraining schedules, implement model performance monitoring (MAPE tracking), and integrate the dashboard directly into a live data warehouse to ensure real-time decision support.
 
-## NLP Sentiment Analytics
+## 2️⃣ NLP Sentiment Analytics
 #### Business Problem
 Understanding user sentiment at scale is critical for app positioning and pricing strategy. The objective was to analyze app categories, ratings, pricing models, and user reviews to extract actionable insights that could inform product strategy and monetization decisions.
 
@@ -64,8 +64,7 @@ Include:
 #### What I Would Do Differently in Production
 In production, I would deploy a transformer-based NLP model (e.g., BERT), implement real-time sentiment streaming using APIs, and create an automated alert system to flag sudden negative sentiment spikes affecting app ratings.
 
-
-## Customer Segmentation Recommendation Engine
+## 3️⃣ Customer Segmentation Recommendation Engine
 #### Business Problem
 E-commerce platforms rely on personalization to increase retention and conversion rates. The goal of this project was to segment customers based on behavioral patterns and generate product recommendations using clustering techniques.
 
