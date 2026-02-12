@@ -36,7 +36,7 @@ Include:
 * Power BI executive dashboard overview
 * mTime-series forecast visualization (ARIMA/SARIMA output)
 * Product clustering visualization (scatter plot or PCA projection)
-[Reckitt - Sales Prediction with Machine Learning](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Reckitt.jpg)
+* [Reckitt - Sales Prediction with Machine Learning](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Reckitt.jpg)
 
 #### What I Would Do Differently in Production
 In a production environment, I would deploy the forecasting model using a cloud-based pipeline (BigQuery or Snowflake), automate retraining schedules, implement model performance monitoring (MAPE tracking), and integrate the dashboard directly into a live data warehouse to ensure real-time decision support.
@@ -56,10 +56,10 @@ The analysis revealed that free and lightweight apps dominate downloads, with an
 
 #### Screenshots
 Include:
-Sentiment distribution bar chart
-Category vs Rating visualization
-Free vs Paid comparison
-[Google - Conclusions 1](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Google.jpg)
+* Sentiment distribution bar chart
+* Category vs Rating visualization
+* Free vs Paid comparison
+* [Google - Conclusions 1](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Google.jpg)
 
 #### What I Would Do Differently in Production
 In production, I would deploy a transformer-based NLP model (e.g., BERT), implement real-time sentiment streaming using APIs, and create an automated alert system to flag sudden negative sentiment spikes affecting app ratings.
@@ -80,10 +80,10 @@ Identified distinct behavioral clusters driven by delivery speed, product qualit
 
 #### Screenshots
 Include:
-Dendrogram (Hierarchical Clustering)
-PCA 2D visualization
-Example of customer-to-customer recommendation mapping
-[Amazon - PCA](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Amazon.jpg)
+* Dendrogram (Hierarchical Clustering)
+* PCA 2D visualization
+* Example of customer-to-customer recommendation mapping
+* [Amazon - PCA](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Amazon.jpg)
 
 #### What I Would Do Differently in Production
 In a real-world implementation, I would transition from clustering-based similarity to a hybrid recommendation engine (collaborative + content-based filtering), deploy it via API, and evaluate performance using precision@k and recall@k metrics within an A/B testing framework.
