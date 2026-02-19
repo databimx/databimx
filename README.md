@@ -1,101 +1,54 @@
-# Dafne Ramírez 👋
-## Business Intelligence & Automation Analyst
-**I build scalable data systems that drive measurable business impact.**
 
-## Impact Highlights
-* +60% campaign revenue growth
-* 83% reporting time reduction
-* 97% data error reduction
-* 63% operational efficiency improvement
+# ¡Hola! Soy Dafne Ramírez | Data Scientist Jr. & Analyst 📊
 
-## 🛠️ Tech Stack visual
-* Power BI
-* SQL
-* Python (Pandas, Sklearn)
-* ETL
-* Machine Learning
-* Power Platform
-* English (B1)
+[cite_start]Científica de Datos certificada por la SEP [cite: 6] con un enfoque híbrido único: combino la comunicación estratégica con el análisis técnico avanzado. [cite_start]Me especializo en transformar datos desestructurados en activos estratégicos para la toma de decisiones[cite: 11].
 
-## 1️⃣ Sales Forecasting Demand Optimization
+---
 
-#### Business Problem
-Reckitt needed to understand product consumption patterns and improve demand planning accuracy. The challenge was to consolidate sales data, segment products based on performance behavior, and forecast future demand to support strategic inventory and marketing decisions.
+## 🚀 Mi Perfil Técnico
+* [cite_start]**Visualización:** Power BI (Nivel Experto), Power Query, Microsoft Power Platform[cite: 26, 27].
+* [cite_start]**Lenguajes & Bases de Datos:** Python (Análisis/Librerías), SQL (Lectura/Consulta), VBA para Excel[cite: 26].
+* [cite_start]**Ciencia de Datos:** Machine Learning, NLP (Procesamiento de Lenguaje Natural), Algoritmos de Agrupación[cite: 21, 22].
+* [cite_start]**Soft Skills:** Comunicación Asertiva y Storytelling de Datos[cite: 28].
 
-#### Dataset
-Historical sales and consumption data processed through ELT pipelines using SQLite, including transactional records, product-level performance metrics, and time-series sales data for forecasting analysis.
+---
 
-#### Methodology
-I designed an ELT workflow to clean and structure the data, performed exploratory data analysis (EDA) to identify trends and seasonality, implemented clustering techniques for product segmentation, and built ARIMA/SARIMA time-series models to forecast sales. The results were visualized through interactive dashboards in Python and Power BI for executive decision-making.
+## 📁 Proyectos Destacados (Ciencia de Datos)
 
-#### Results
-The project identified high-performing product clusters, uncovered seasonality patterns, and generated multi-year sales forecasts (extended to 2024–2026). The solution demonstrated how predictive analytics can optimize demand planning and reduce uncertainty in inventory strategy.
-
-#### Screenshots
-Include:
-* Power BI executive dashboard overview
-* mTime-series forecast visualization (ARIMA/SARIMA output)
-* Product clustering visualization (scatter plot or PCA projection)
+### 1. Previsión de Ventas - Caso Reckitt 📉
+* [cite_start]**Descripción:** Creación de modelos de aprendizaje automático y algoritmos de agrupación para optimizar la planificación de la demanda[cite: 21].
+* [cite_start]**Impacto:** Optimización de la segmentación de productos basada en datos históricos[cite: 21].
 * [Reckitt - Sales Prediction with Machine Learning](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Reckitt.jpg)
 
-#### What I Would Do Differently in Production
-In a production environment, I would deploy the forecasting model using a cloud-based pipeline (BigQuery or Snowflake), automate retraining schedules, implement model performance monitoring (MAPE tracking), and integrate the dashboard directly into a live data warehouse to ensure real-time decision support.
-
-## 2️⃣ NLP Sentiment Analytics
-#### Business Problem
-Understanding user sentiment at scale is critical for app positioning and pricing strategy. The objective was to analyze app categories, ratings, pricing models, and user reviews to extract actionable insights that could inform product strategy and monetization decisions.
-
-#### Dataset
-Google Play Store dataset containing app categories, ratings, pricing, size, and thousands of user reviews in unstructured text format.
-
-#### Methodology
-Performed data cleaning and feature engineering, followed by exploratory analysis to identify relationships between category, pricing, and ratings. Implemented Natural Language Processing (NLP) techniques to classify review sentiment (positive, negative, neutral). Combined structured and unstructured analysis to generate actionable KPIs.
-
-#### Results
-The analysis revealed that free and lightweight apps dominate downloads, with an average rating of 4.3 across categories. Sentiment analysis showed predominantly positive feedback, with price playing a more significant role in adoption than category alone. The project demonstrates how NLP can transform unstructured reviews into strategic product insights.
-
-#### Screenshots
-Include:
-* Sentiment distribution bar chart
-* Category vs Rating visualization
-* Free vs Paid comparison
+### 2. Análisis de Opiniones - Google Play 📱
+* [cite_start]**Descripción:** Desarrollo de un modelo de NLP para convertir reseñas no estructuradas en indicadores clave de rendimiento (KPI)[cite: 22].
+* [cite_start]**Impacto:** Extracción de insights automatizada para mejorar la experiencia del usuario[cite: 22].
 * [Google - Conclusions 1](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Google.jpg)
 
-#### What I Would Do Differently in Production
-In production, I would deploy a transformer-based NLP model (e.g., BERT), implement real-time sentiment streaming using APIs, and create an automated alert system to flag sudden negative sentiment spikes affecting app ratings.
-
-## 3️⃣ Customer Segmentation Recommendation Engine
-#### Business Problem
-E-commerce platforms rely on personalization to increase retention and conversion rates. The goal of this project was to segment customers based on behavioral patterns and generate product recommendations using clustering techniques.
-
-#### Dataset
-Amazon customer purchase dataset including product attributes, ratings, delivery preferences, durability scores, and customer-level interaction metrics.
-
-#### Methodology
-Performed preprocessing and dimensionality reduction using PCA, followed by hierarchical clustering to group customers with similar preferences. Analyzed cluster characteristics to design recommendation logic based on shared behavioral attributes.
-
-#### Results
-Identified distinct behavioral clusters driven by delivery speed, product quality, durability, and visual presentation preferences. Generated personalized recommendation logic based on similarity patterns, demonstrating how segmentation can support targeted marketing and increase purchase probability.
-
-#### Screenshots
-Include:
-* Dendrogram (Hierarchical Clustering)
-* PCA 2D visualization
-* Example of customer-to-customer recommendation mapping
+### 3. Motor de Recomendaciones - Amazon Dataset 🛒
+* [cite_start]**Descripción:** Diseño de un sistema predictivo para mejorar las estrategias de personalización de productos[cite: 23].
 * [Amazon - PCA](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Amazon.jpg)
 
-#### What I Would Do Differently in Production
-In a real-world implementation, I would transition from clustering-based similarity to a hybrid recommendation engine (collaborative + content-based filtering), deploy it via API, and evaluate performance using precision@k and recall@k metrics within an A/B testing framework.
+### 4. Asistente SQL con IA (LLM) 🤖
+* [cite_start]**Descripción:** Implementación de consultas en lenguaje natural basadas en modelos de lenguaje grande para reducir el tiempo de generación de informes ad hoc[cite: 24].
 
+---
 
-## 📫 Contacto
-* **LinkedIn:** www.linkedin.com/in/daph-data-1257ab356
-* **Email:** data.bi.mx@gmail.com
-* **Ubicación:** Ciudad de México
-* **WEB Portfolio:** https://sites.google.com/view/dafolio/home
+## 💼 Experiencia Relevante en Análisis de Datos
+* [cite_start]**Dashboards de Nivel Ejecutivo:** Diseño e implementación de +6 tableros en Power BI con visibilidad del 100% en tiempo real sobre métricas de branding y reach[cite: 9].
+* [cite_start]**Automatización de Procesos:** Reducción del 83% en el tiempo de generación de informes mediante flujos ETL automatizados (Excel, SQL, Power BI)[cite: 10].
+* [cite_start]**Integridad de Datos:** Optimización del 97% en la calidad de los datos mediante el diseño de procesos de ingesta desde cero[cite: 11].
 
-## License
-All the projects presented here are part of my personal portfolio. 
+---
+
+## 📫 Contacto & Redes
+* [cite_start]**Email:** [data.bi.mx@gmail.com](mailto:data.bi.mx@gmail.com) [cite: 3]
+* [cite_start]**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daph-data-1257pd356) [cite: 3]
+* [cite_start]**Ubicación:** Ciudad de México (Disponible para remoto) [cite: 3]
+* [cite_start]**Idiomas:** Español (Nativo), Inglés (Nivel A2 - Lectura técnica y scripts)[cite: 30, 31, 32].
+
+---
+[cite_start]*Certificada en Ciencia de Datos por EBAC y avalada por la SEP.* [cite: 15, 16]
 
 ---
 <!--
