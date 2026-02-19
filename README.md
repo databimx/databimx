@@ -1,54 +1,54 @@
 
 # ¡Hola! Soy Dafne Ramírez | Data Scientist Jr. & Analyst 📊
 
-[cite_start]Científica de Datos certificada por la SEP [cite: 6] con un enfoque híbrido único: combino la comunicación estratégica con el análisis técnico avanzado. [cite_start]Me especializo en transformar datos desestructurados en activos estratégicos para la toma de decisiones[cite: 11].
+Científica de Datos certificada por la SEP [cite: 6] con un enfoque híbrido único: combino la comunicación estratégica con el análisis técnico avanzado. [cite_start]Me especializo en transformar datos desestructurados en activos estratégicos para la toma de decisiones.
 
 ---
 
 ## 🚀 Mi Perfil Técnico
-* [cite_start]**Visualización:** Power BI (Nivel Experto), Power Query, Microsoft Power Platform[cite: 26, 27].
-* [cite_start]**Lenguajes & Bases de Datos:** Python (Análisis/Librerías), SQL (Lectura/Consulta), VBA para Excel[cite: 26].
-* [cite_start]**Ciencia de Datos:** Machine Learning, NLP (Procesamiento de Lenguaje Natural), Algoritmos de Agrupación[cite: 21, 22].
-* [cite_start]**Soft Skills:** Comunicación Asertiva y Storytelling de Datos[cite: 28].
+* **Visualización:** Power BI (Nivel Experto), Power Query, Microsoft Power Platform.
+* **Lenguajes & Bases de Datos:** Python (Análisis/Librerías), SQL (Lectura/Consulta), VBA para Excel.
+* **Ciencia de Datos:** Machine Learning, NLP (Procesamiento de Lenguaje Natural), Algoritmos de Agrupación.
+* **Soft Skills:** Comunicación Asertiva y Storytelling de Datos.
 
 ---
 
 ## 📁 Proyectos Destacados (Ciencia de Datos)
 
 ### 1. Previsión de Ventas - Caso Reckitt 📉
-* [cite_start]**Descripción:** Creación de modelos de aprendizaje automático y algoritmos de agrupación para optimizar la planificación de la demanda[cite: 21].
-* [cite_start]**Impacto:** Optimización de la segmentación de productos basada en datos históricos[cite: 21].
+* **Descripción:** Creación de modelos de aprendizaje automático y algoritmos de agrupación para optimizar la planificación de la demanda.
+* **Impacto:** Optimización de la segmentación de productos basada en datos históricos.
 * [Reckitt - Sales Prediction with Machine Learning](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Reckitt.jpg)
 
 ### 2. Análisis de Opiniones - Google Play 📱
-* [cite_start]**Descripción:** Desarrollo de un modelo de NLP para convertir reseñas no estructuradas en indicadores clave de rendimiento (KPI)[cite: 22].
-* [cite_start]**Impacto:** Extracción de insights automatizada para mejorar la experiencia del usuario[cite: 22].
+* **Descripción:** Desarrollo de un modelo de NLP para convertir reseñas no estructuradas en indicadores clave de rendimiento (KPI).
+* **Impacto:** Extracción de insights automatizada para mejorar la experiencia del usuario.
 * [Google - Conclusions 1](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Google.jpg)
 
 ### 3. Motor de Recomendaciones - Amazon Dataset 🛒
-* [cite_start]**Descripción:** Diseño de un sistema predictivo para mejorar las estrategias de personalización de productos[cite: 23].
+* **Descripción:** Diseño de un sistema predictivo para mejorar las estrategias de personalización de productos.
 * [Amazon - PCA](https://github.com/databimx/databimx/blob/790f6e9281df393c92fc628343cc31a45e8fcc7a/Amazon.jpg)
 
 ### 4. Asistente SQL con IA (LLM) 🤖
-* [cite_start]**Descripción:** Implementación de consultas en lenguaje natural basadas en modelos de lenguaje grande para reducir el tiempo de generación de informes ad hoc[cite: 24].
+* **Descripción:** Implementación de consultas en lenguaje natural basadas en modelos de lenguaje grande para reducir el tiempo de generación de informes ad hoc.
 
 ---
 
 ## 💼 Experiencia Relevante en Análisis de Datos
-* [cite_start]**Dashboards de Nivel Ejecutivo:** Diseño e implementación de +6 tableros en Power BI con visibilidad del 100% en tiempo real sobre métricas de branding y reach[cite: 9].
-* [cite_start]**Automatización de Procesos:** Reducción del 83% en el tiempo de generación de informes mediante flujos ETL automatizados (Excel, SQL, Power BI)[cite: 10].
-* [cite_start]**Integridad de Datos:** Optimización del 97% en la calidad de los datos mediante el diseño de procesos de ingesta desde cero[cite: 11].
+* **Dashboards de Nivel Ejecutivo:** Diseño e implementación de +6 tableros en Power BI con visibilidad del 100% en tiempo real sobre métricas de branding y reach.
+* **Automatización de Procesos:** Reducción del 83% en el tiempo de generación de informes mediante flujos ETL automatizados (Excel, SQL, Power BI).
+* **Integridad de Datos:** Optimización del 97% en la calidad de los datos mediante el diseño de procesos de ingesta desde cero.
 
 ---
 
 ## 📫 Contacto & Redes
-* [cite_start]**Email:** [data.bi.mx@gmail.com](mailto:data.bi.mx@gmail.com) [cite: 3]
-* [cite_start]**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daph-data-1257pd356) [cite: 3]
-* [cite_start]**Ubicación:** Ciudad de México (Disponible para remoto) [cite: 3]
-* [cite_start]**Idiomas:** Español (Nativo), Inglés (Nivel A2 - Lectura técnica y scripts)[cite: 30, 31, 32].
+* **Email:** [data.bi.mx@gmail.com](mailto:data.bi.mx@gmail.com) [cite: 3]
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daph-data-1257pd356) ]
+* **Ubicación:** Ciudad de México (Disponible para remoto) 
+* **Idiomas:** Español (Nativo), Inglés (Nivel A2 - Lectura técnica y scripts).
 
 ---
-[cite_start]*Certificada en Ciencia de Datos por EBAC y avalada por la SEP.* [cite: 15, 16]
+*Certificada en Ciencia de Datos por EBAC y avalada por la SEP.* 
 
 ---
 <!--
