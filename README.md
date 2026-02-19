@@ -42,8 +42,8 @@ Científica de Datos certificada por la SEP [cite: 6] con un enfoque híbrido ú
 ---
 
 ## 📫 Contacto & Redes
-* **Email:** [data.bi.mx@gmail.com](mailto:data.bi.mx@gmail.com) [cite: 3]
-* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daph-data-1257pd356) ]
+* **Email:** [data.bi.mx@gmail.com](mailto:data.bi.mx@gmail.com)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daph-data-1257pd356)
 * **Ubicación:** Ciudad de México (Disponible para remoto) 
 * **Idiomas:** Español (Nativo), Inglés (Nivel A2 - Lectura técnica y scripts).
 
