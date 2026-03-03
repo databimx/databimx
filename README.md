@@ -16,6 +16,12 @@ Proyecto de segmentación de clientes mediante clustering jerárquico para gener
 Análisis de más de 10,000 aplicaciones de Android para identificar factores que influyen en la calificación y valoración de los usuarios. Los resultados permitieron definir estrategias de crecimiento y retención.
 <u>Herramientas</u>: Python, Machine Learning.
 
-### Pipelines y Dashboards - [Varios]()
+### Pipelines y Dashboards
 Automatización de procesos de ingesta de datos, reduciendo errores y aumentando la eficiencia operativa. Organización de bases de datos no estructuradas. Evaluación y visualización de resultados con dashboards.
 <u>Herramientas</u>: ETL, Excel, VBA y Power Platform, Power BI.
+[Dashboard productos de gran consumo](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/Dashboard%20productos%20de%20gran%20consumo.pdf)
+[Dashboard mojarra tilapia premium](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/Dashboard%20mojarratilapia%20premium.pdf)
+[Dashboard productos electrónicos de gran consumo 2019-2025](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/Dashboard%20productos%20electr%C3%B3nicos%20de%20consumo%20%20(2019-2025).pdf)
+[Dashboard marketing influencer 2023-2024](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/Dashboard%20influencer%20marketing%20FY2324.pdf)
+[Dashboard marketing influencer 2022-2023](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/Dashboard%20influencer%20marketing%20FY2223.pdf)
+[Base de datos](https://github.com/databimx/Portafolio/blob/0b05a6c40ce92973bbf9e80a0e2cb39cda491e04/bdd_p%26Gladmar.png)
