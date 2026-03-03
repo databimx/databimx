@@ -1,5 +1,5 @@
 # Portafolio dataflow dr
-**Analista de Datos | Científico de Datos Junior**  
+**Analista de Datos | Científico de Datos Junior**
 data.bi.mx@gmail.com | Visita mi [LinkedIn](http://www.linkedin.com/in/daph-data-1257pd356) para más información.  
 
 ## PROYECTOS
