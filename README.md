@@ -9,7 +9,7 @@ Visita mi [LinkedIn](http://www.linkedin.com/in/daph-data-1257pd356) para más i
 Proyecto de análisis de datos para estudiar productos, regiones, marcas y comportamiento de ventas en el tiempo, con el objetivo de pronosticar ventas a 5 años. Se desarrollaron modelos predictivos para apoyar la optimización de ventas y la toma de decisiones estratégicas.
 <u>Herramientas</u>: Python, SQLite, Estadística, Machine Learning, Power BI.
 
-### Recomendaciones de compra – [Amazon](https://github.com/databimx/Portafolio/blob/588ea34a07c9ae6b1934f3944fab1de156c8eca1/Pr%C3%A1ctica%20m26-CD-DafneRam%C3%ADrez-ClusteringJer%C3%A1rquico.ipynb)
+### Recomendaciones de compra – [Amazon](https://github.com/databimx/databimx/blob/2ad13bf20c63f576f9bbfa91b0e2a01e3b14555a/Recomendaciones%20de%20compras%20a%20los%20clientes%20(Amazon).ipynb)
 Proyecto de segmentación de clientes mediante clustering jerárquico para generar recomendaciones personalizadas de productos, basadas en patrones de consumo por segmento, aplicando supervised y unsupervised learning, evaluación de modelos y generación de insights accionables.
 <u>Herramientas</u>: Python, Machine Learning.
 
