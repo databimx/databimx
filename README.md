@@ -6,10 +6,11 @@ Comunicóloga titulada por la UNAM con especialización en Ciencia de Datos (EBA
 
 ### 🛠️ Mi Stack Tecnológico
 
-- **Data Science:** Python (Pandas, NumPy, Scikit-Learn), Modelos Predictivos, Estadística Inferencial, Deep Learning.
-- **Data Engineering:** SQL (SQLite, SQL Server), Procesos ETL, Estructuración de Bases de Datos.
-- **Business Intelligence:** Power BI (Nivel Experto), DAX, Power Query, Google Looker Studio.
-- **Automatización:** Power Automate, VBA (Macros), Microsoft Power Platform.
+- **Datos y análisis:** Python · SQL · Power BI · Looker Studio · Excel Avanzado (Power Query, tablas dinámicas) · Machine Learning (modelos predictivos de marca/producto)
+- **Medios y monitoreo:** Talkwalker · seguimiento multiplataforma (prensa, digital, TV, radio, podcasts, RRSS) · auditoría de medios · sentiment analysis
+- **Social media y contenidos:** Planeación estratégica · calendarios de contenido · funnel de compras · branding · storytelling
+- **Diseño y comunicación:** Canva · Adobe (Illustrator, Photoshop, Premiere, InDesign) · PowerPoint · storytelling visual
+- - **Idiomas:** Español (nativo) · Inglés (B1)
 
 ---
 
@@ -28,15 +29,14 @@ Comunicóloga titulada por la UNAM con especialización en Ciencia de Datos (EBA
 ---
 
 ### 📈 Mi Impacto en Cifras
-- **+15 marcas globales** gestionadas simultáneamente (LADMAR).
-- **95% de reducción de errores** mediante automatización de procesos ETL.
+- **+15 marcas globales** gestionadas simultáneamente (P&G).
+- **95% de reducción de errores** mediante automatización de procesos.
 - **Tiempos récord:** Entrega de dashboards estratégicos para C-Level en < 48h.
 
 ---
 
 ### 📫 Conecta conmigo:
-- [**LinkedIn:**](http://www.linkedin.com/in/dafne-ramírez-a187aa405)
+- [**LinkedIn**](http://www.linkedin.com/in/dafne-ramírez-a187aa405)
 - **Email:** data.bi.mx@gmail.com y drconekta@gmail.com
-- **Idiomas:** Español (Nativo) | Inglés (B1 - Lectura técnica y documentación)
 
 ---
