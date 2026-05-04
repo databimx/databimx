@@ -1,8 +1,6 @@
-# ¡Hola! Soy Dafne R. | Data Analyst | Influencer Marketing & Retail Analytics | Power BI Expert | Python & SQL 🚀
+# ¡Hola! Soy Dafne R. | Data Analyst & Insights  |  Media Monitoring  |  Social Media Strategy 🚀
 
-Como **Científica de Datos** con un trasfondo estratégico en **Ciencias de la Comunicación (UNAM)**, me especializo en cerrar la brecha entre los datos complejos y las decisiones de negocio accionables. 
-
-Con más de 4 años de experiencia entregando insights críticos para marcas globales como **P&G, Sony y Regal Springs**, mi enfoque combina el rigor técnico del Machine Learning con el Storytelling de datos para maximizar el ROI.
+Comunicóloga titulada por la UNAM con especialización en Ciencia de Datos (EBAC–SEP) y más de 3 años de experiencia en agencia de marketing para cuentas globales (P&G LADMAR, Sony, Bupa, Regal Springs). Única analista de datos en un equipo de 28 personas: transformé procesos manuales de hasta un año en dashboards automatizados, disponibles 24/7, que habilitaron decisiones estratégicas de negocio para clientes internacionales. Combino el pensamiento de comunicación y marcas con el rigor del análisis de datos — una combinación que muy pocos perfiles tienen.
 
 ---
 
@@ -37,7 +35,7 @@ Con más de 4 años de experiencia entregando insights críticos para marcas glo
 ---
 
 ### 📫 Conecta conmigo:
-- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/daph-data-1257pd356/) 
+- **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/daph-data-1257pd356/](http://www.linkedin.com/in/dafne-ramírez-a187aa405) 
 - **Email:** data.bi.mx@gmail.com
 - **Idiomas:** Español (Nativo) | Inglés (B1 - Lectura técnica y documentación)
 
