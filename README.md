@@ -35,7 +35,7 @@ Comunicóloga titulada por la UNAM con especialización en Ciencia de Datos (EBA
 ---
 
 ### 📫 Conecta conmigo:
-- **LinkedIn:** http://www.linkedin.com/in/dafne-ramírez-a187aa405
+- [**LinkedIn:**](http://www.linkedin.com/in/dafne-ramírez-a187aa405)
 - **Email:** data.bi.mx@gmail.com y drconekta@gmail.com
 - **Idiomas:** Español (Nativo) | Inglés (B1 - Lectura técnica y documentación)
 
