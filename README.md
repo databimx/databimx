@@ -16,12 +16,12 @@ Comunicóloga titulada por la UNAM con especialización en Ciencia de Datos (EBA
 
 ### 📊 Proyectos Destacados
 
-#### [Forecasting de Ventas | Reckitt](https://github.com/databimx/Forecasting-de-Ventas-Optimizaci-n-de-Cadena-de-Suministro-Reckitt-/blob/4f3c7d41b28af107e7bd208b4d523e122503efc2/README.md)
+#### [Forecasting de Ventas | Reckitt]()
 *Optimización de cadena de suministro mediante modelos predictivos.*
 - **Impacto:** Desarrollo de un modelo de regresión/series temporales a 5 años para proyecciones de inventario.
 - **Tecnologías:** Python, SQL (SQLite), Scikit-Learn y visualización en Power BI.
 
-#### [Automatización de Insights de Marketing | Martec](https://github.com/databimx/Data-Analyst-Insights-Executive-MARTEC/blob/87b463823f3a52c5da973a750657710c6ae665d4/README.md)
+#### [Automatización de Insights de Marketing | Martec]()
 *Reducción drástica de tiempos operativos en análisis de Influencer Marketing.*
 - **Logro:** Reducción del margen de error en un 95% y optimización de entrega de informes de meses a solo 48 horas.
 - **Tecnologías:** Power BI, DAX, Power Query, VBA.
