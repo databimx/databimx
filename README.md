@@ -55,9 +55,9 @@ Proyectos destacados:
 
 ## CERTIFICACIONES
 
-Python para Ciencia de Datos — Udemy, 2024
-SQL: Curso completo de bases de datos — Udemy, 2024
-Power BI: Análisis de Datos y Business Intelligence — Udemy, 2024
+- Python para Ciencia de Datos — Udemy, 2024
+- SQL: Curso completo de bases de datos — Udemy, 2024
+- Power BI: Análisis de Datos y Business Intelligence — Udemy, 2024
 
 ## IDIOMAS
 
