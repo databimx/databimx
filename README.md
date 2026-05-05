@@ -1,6 +1,6 @@
 # DAFNE RAMÍREZ
 ***Analista de Mercados & Business Intelligence  |  SQL · Python · Power BI · Excel Avanzado***
-Coyoacán, CDMX  |  56-1801-6424  |  data.bi.mx@gmail.com  |  linkedin.com/in/dafne-ramírez-a187aa405  |  github.com/databimx  |   https://canva.link/4iu21gobbo3ezyf
+Coyoacán, CDMX  |  56-1801-6424  |  data.bi.mx@gmail.com  |  https://linkedin.com/in/dafne-ramírez-a187aa405  |  https://github.com/databimx  |   https://canva.link/4iu21gobbo3ezyf
 
 
 
