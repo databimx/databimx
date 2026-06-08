@@ -13,7 +13,7 @@ He colaborado con marcas líderes como P&G LATAM y Netflix, impulsando eficienci
 | Área | Herramientas |
 |---|---|
 | **Analytics & BI** | Power BI, DAX, Excel, Power Query, EDA, Estadística descriptiva e inferencial, Orange, SQL, ETL, BI, Power Automate, VBA, SharePoint |
-| **Marketing Intelligence** | Marketing Analytics, Data Analytics, Social Listenig, Social Listening, Consumer Insights, influencer Marketing Analytics |
+| **Marketing Intelligence** | Marketing Analytics, Marketing Intelligence, Data Analytics, Social Listening, Consumer Insights, Influencer Marketing Analytics |
 
 ---
 
