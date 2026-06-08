@@ -1,8 +1,10 @@
-# Dafne Ramírez · Marketing Data Analyst | Business Intelligence
+# Dafne Ramírez · Especialista en Analítica e Inteligencia de Marketing
 
-Más de 3 años convirtiendo datos de campañas de marketing en decisiones de negocio concretas.
-Trabajo en la intersección de **datos + estrategia de marca**: construyo pipelines ETL, dashboards ejecutivos
-y modelos que le dan a los equipos visibilidad que antes tomaba 6–12 meses obtener.
+𝗘𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝗮 𝗲𝗻 𝗔𝗻𝗮𝗹𝗶́𝘁𝗶𝗰𝗮 𝗲 𝗜𝗻𝘁𝗲𝗹𝗶𝗴𝗲𝗻𝗰𝗶𝗮 𝗱𝗲 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 con más de 8 años de experiencia ayudando a organizaciones globales a transformar datos complejos en decisiones de negocio. 
+
+Experta en Automatización de Procesos, Marketing Analytics, BI, Data Analytics, SQL, Marketing Intelligence, Business Intelligence y Consumer Insights, con experiencia en desarrollar soluciones que aceleran el reporting, optimizan inversiones de marketing y generan visibilidad para la toma de decisiones estratégicas.
+
+He colaborado con marcas líderes como P&G LATAM y Netflix, impulsando eficiencias operativas, reducción de costos y optimización del desempeño de campañas mediante Power BI, SQL y ETL.
 
 ---
 
@@ -10,12 +12,9 @@ y modelos que le dan a los equipos visibilidad que antes tomaba 6–12 meses obt
 
 | Área | Herramientas |
 |---|---|
-| **BI & Visualización** | Power BI · DAX · Excel avanzado · Tablas dinámicas |
-| **ETL & Automatización** | Power Query · VBA · Power Automate · SharePoint |
-| **Bases de datos** | SQL Server · SQLite |
-| **Data Science** | Python · Pandas · Scikit-learn · Jupyter Notebook |
-| **Estadística** | Descriptiva · Inferencial · Probabilidad · Orange |
-| **Metodologías** | EDA · Scrum · KPIs · CRM · Storytelling de datos |
+| **Analytics & BI** | Power BI, DAX, Excel, Power Query, EDA, Estadística
+descriptiva e inferencial, Orange, SQL, ETL, BI, Power Automate, VBA, SharePoint |
+| **Marketing Intelligence** | Marketing Analytics, Data Analytics, Social Listenig, Social Listening, Consumer Insights, influencer Marketing Analytics |
 
 ---
 
@@ -35,19 +34,21 @@ productos que los clientes compran juntos — con visualización de red de afini
 
 ---
 
+**Inglés B2** 
+
+---
+
 ## 🏆 Logro destacado
 
 **Premio DOING BUSINESS BETTER — P&G LATAM 2023**
-Por el desarrollo de un dashboard ejecutivo en Power BI que redujo el tiempo de reporte
-de 6–12 meses a 1–2 días, y generó el insight que llevó a P&G a redirigir su estrategia
-de campañas por región — reduciendo presupuesto en ~50% y duplicando retorno.
+Por el desarrollo de un dashboard ejecutivo en Power BI que redujo el tiempo de reporte de 6–12 meses a 1–2 días, y generó el insight que llevó a P&G a redirigir su estrategia de campañas por región — reduciendo presupuesto en ~50% y duplicando retorno.
 
 ---
 
 ## 📬 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafne--ramirez-blue?logo=linkedin)](https://linkedin.com/in/dafne-ramirez-a187aa405)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver%20proyectos-orange)](https://canva.link/4iu21gobbo3ezyf)
-[![Email](https://img.shields.io/badge/Email-drconekta%40gmail.com-red?logo=gmail)](mailto:drconekta@gmail.com)
+[![LinkedIn](www.linkedin.com/in/mda-a187aa405)
+𝗛𝗮𝗯𝗹𝗲𝗺𝗼𝘀. 🚀
+📩 𝖽̲𝗋̲𝖼̲𝗈̲𝗇̲𝖾̲𝗄̲𝗍̲𝖺̲@̲𝗀̲𝗆̲𝖺̲𝗂̲𝗅̲.̲𝖼̲𝗈̲𝗆̲
 
-**Inglés C2** · Abierta a roles remotos e híbridos · Ciudad de México
+
