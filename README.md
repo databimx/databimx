@@ -46,7 +46,8 @@ Por el desarrollo de un dashboard ejecutivo en Power BI que redujo el tiempo de 
 
 [LinkedIn](www.linkedin.com/in/mda-a187aa405)
 
-𝗛𝗮𝗯𝗹𝗲𝗺𝗼𝘀. 🚀
+𝗛𝗮𝗯𝗹𝗲𝗺𝗼𝘀. 🚀 
+
 📩 𝖽̲𝗋̲𝖼̲𝗈̲𝗇̲𝖾̲𝗄̲𝗍̲𝖺̲@̲𝗀̲𝗆̲𝖺̲𝗂̲𝗅̲.̲𝖼̲𝗈̲𝗆̲
 
 
