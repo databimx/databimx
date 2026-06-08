@@ -24,12 +24,10 @@ Análisis de productos y regiones con **Python, SQLite y Power BI**.
 Modelo de series de tiempo para anticipar tendencias de venta por SKU y geografía.
 
 ### 🛒 [Segmentación de clientes — Amazon](https://github.com/databimx/databimx/blob/43fff497fea40cc5f15a989819596cf08e4ec287/Amazon_Clustering_Jer%C3%A1rquico.ipynb)
-Clustering jerárquico para construir un sistema de recomendación de compra
-basado en patrones de comportamiento de usuarios.
+Clustering jerárquico para construir un sistema de recomendación de compra basado en patrones de comportamiento de usuarios.
 
 ### 🧺 [Análisis de Market Basket](https://github.com/databimx/databimx/blob/43fff497fea40cc5f15a989819596cf08e4ec287/Market%20basket.ipynb)
-Minería de datos con reglas de asociación (Apriori) para identificar
-productos que los clientes compran juntos — con visualización de red de afinidad.
+Minería de datos con reglas de asociación (Apriori) para identificar productos que los clientes compran juntos — con visualización de red de afinidad.
 
 ---
 
